@@ -8,8 +8,8 @@
   "publish": "done",
   "report": "done"
  },
- "produce_runs": 7,
- "started": "2026-09-08T22:30:04.979940",
+ "produce_runs": 8,
  "einsammeln_kaputt": true,
- "publish_rc": 0
+ "publish_rc": 0,
+ "started": "2026-09-09T22:35:02.005818"
 }

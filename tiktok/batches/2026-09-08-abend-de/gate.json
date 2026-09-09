@@ -16,5 +16,59 @@
   "grund": "Charakter durchgehend sichtbar, keine Strichfigur oder Leerlauf",
   "leer": 0.52,
   "quelle": "urteil"
+ },
+ "2026-09-09-de-04-treppe-runter-f3": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, nur Stilwechsel am Ende (Kniebeuge-Reihe) erlaubt.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-05-sport-rettet-nicht-f3": {
+  "pass": true,
+  "grund": "Charakter in jedem Frame präsent, auch klein in Wüstenszene sichtbar.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-06-ruecken-nicht-aus-glas-f3": {
+  "pass": true,
+  "grund": "Nur kurze Lücke von drei Deko-Frames (Bücher/Pflanze) in Reihe 3.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-07-flug-morgen-f2": {
+  "pass": false,
+  "grund": "Reihe 1: ab Fensterblick durchgehend nur Fenster/Campingstuhl, kein Charakter über 8+ Frames.",
+  "leer": 0.81,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-08-rueckenschlaefer-kreuz-f2": {
+  "pass": true,
+  "grund": "Charakter durchgehend im Bett/Stretching sichtbar, keine Lücke.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-09-socken-anziehen-f4": {
+  "pass": true,
+  "grund": "Charakter kehrt regelmäßig zurück, längste Lücke in Reihe 1 nur vier Frames.",
+  "leer": 1.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-10-zappeln-f4": {
+  "pass": false,
+  "grund": "Reihe 1: 13 Frames nur Strichfigur am Schreibtisch statt Sollcharakter",
+  "leer": 0.5,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-11-kinder-keine-rueckenschmerzen-f5": {
+  "pass": true,
+  "grund": "Sollcharakter durchgehend präsent, Kinder/Diagramme nur begleitend",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-12-urlaub-vs-wochenende-f5": {
+  "pass": true,
+  "grund": "Sollcharakter durchgehend präsent, keine Strichfigur oder leere Tafeln",
+  "leer": 0.0,
+  "quelle": "urteil"
  }
 }

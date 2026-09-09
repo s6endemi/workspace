@@ -17,46 +17,46 @@
  "04-treppe-runter-f3": {
   "frag": "Downstairs Walking Trains A Skill",
   "hook": "Treppe runtergehen ist anstrengender für deine Beine als hochgehen. Und das ist kein Zeichen von Schwäche.",
-  "status": "TAGESLIMIT"
+  "status": "OK 1:12 -> 2026-09-09-de-04-treppe-runter-f3.mp4"
  },
  "05-sport-rettet-nicht-f3": {
   "frag": "Exercise And Sitting Run On",
   "hook": "Eine Stunde Sport rettet keine acht Stunden Sitzen. Beides zählt getrennt.",
-  "status": "quelle ok"
+  "status": "OK 0:55 -> 2026-09-09-de-05-sport-rettet-nicht-f3.mp4"
  },
  "06-ruecken-nicht-aus-glas-f3": {
   "frag": "Your Back Was Never As",
   "hook": "Dein Rücken ist nicht aus Glas. Er wird nur behandelt, als wäre er es.",
-  "status": "quelle ok"
+  "status": "OK 1:06 -> 2026-09-09-de-06-ruecken-nicht-aus-glas-f3.mp4"
  },
  "07-flug-morgen-f2": {
   "frag": "Why Long Flights Make You",
   "hook": "Wenn du morgen fliegst oder lange Bus fährst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, damit du nicht aussteigst wie 80.",
-  "status": "quelle ok"
+  "status": "OK 1:06 -> 2026-09-09-de-07-flug-morgen-f2.mp4"
  },
  "08-rueckenschlaefer-kreuz-f2": {
   "frag": "Why Sleeping On Your Back",
   "hook": "Wenn du auf dem Rücken schläfst und morgens das Kreuz spürst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die das ändern.",
-  "status": "quelle ok"
+  "status": "OK 1:07 -> 2026-09-09-de-08-rueckenschlaefer-kreuz-f2.mp4"
  },
  "09-socken-anziehen-f4": {
   "frag": "The Real Reason You Sit",
   "hook": "Das wurde dir über das Sockenanziehen nie erklärt.",
-  "status": "quelle ok"
+  "status": "OK 1:00 -> 2026-09-09-de-09-socken-anziehen-f4.mp4"
  },
  "10-zappeln-f4": {
   "frag": "What Your Bouncing Foot Is",
   "hook": "Das wurde dir über dein Zappeln nie erklärt.",
-  "status": "quelle ok"
+  "status": "OK 0:54 -> 2026-09-09-de-10-zappeln-f4.mp4"
  },
  "11-kinder-keine-rueckenschmerzen-f5": {
   "frag": "Why Kids Almost Never Complain",
   "hook": "Kinder haben fast nie Rückenschmerzen, und der Grund ist nicht ihr Alter.",
-  "status": "quelle ok"
+  "status": "OK 0:54 -> 2026-09-09-de-11-kinder-keine-rueckenschmerzen-f5.mp4"
  },
  "12-urlaub-vs-wochenende-f5": {
   "frag": "Why A City Trip Leaves",
   "hook": "Nach einer Woche Städtetrip läuft dein Körper besser als nach einem Wochenende auf dem Sofa, obwohl du viel mehr getan hast.",
-  "status": "quelle ok"
+  "status": "OK 1:01 -> 2026-09-09-de-12-urlaub-vs-wochenende-f5.mp4"
  }
 }

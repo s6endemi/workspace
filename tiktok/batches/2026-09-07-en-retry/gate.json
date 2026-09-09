@@ -40,5 +40,11 @@
   "grund": "Ab Reihe 1 über 12 Frames nur Strichfigur/Skelett-Diagramm statt Charakter",
   "leer": 0.7,
   "quelle": "urteil"
+ },
+ "2026-09-07-en-05-back-when-standing": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, keine 8 Frames ohne ihn oder mit Strichfigur/Anatomie",
+  "leer": 0.0,
+  "quelle": "urteil"
  }
 }

@@ -1,9 +1,15 @@
 {
  "stages": {
-  "check": "done"
+  "check": "done",
+  "produce": "done",
+  "collect": "done",
+  "trim": "done",
+  "gate": "done",
+  "publish": "done",
+  "crosspost": "done",
+  "report": "done"
  },
- "produce_runs": 11,
+ "produce_runs": 18,
  "einsammeln_kaputt": true,
- "publish_rc": 0,
- "started": "2026-09-09T14:13:46.068041"
+ "publish_rc": 0
 }

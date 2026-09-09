@@ -1961,3 +1961,26 @@ auf den Journal-Eintrag) und pushen. Wiederherstellung: Hermes installieren, `ag
 starten und einloggen, Windows-Tasks neu anlegen (Akku-Flags beachten).
 
 **Rückweg.** `.git`-Ordner löschen; die Repos auf GitHub sind privat und können gelöscht werden.
+
+### 09.09. 22:50 — Abend: Batch 4 komplett, Facebook auf Eis, Vergleichstest ab 10.09.
+
+**Batch 4 (Formate F1–F5).** Tageslimit gab gegen 19:00 frei; 12/12 produziert, Gate 10 PASS. FAIL:
+07-flug-morgen (81 % leere Frames, Fenster/Campingstuhl ohne Charakter) und 10-zappeln (Strichfigur am
+Schreibtisch). 10 Videos auf TikTok DE geplant (01–03 ab 11.09. 19:30, 04–12 bis 13.09. 16:30), alle in der
+Instagram-Queue und als YouTube-Shorts (0 Fehler). Facebook wurde übersprungen (Pause). Der 22:30-Nachhol-Task
+lief mit `--force` noch einmal durch und schickte denselben Bericht ein zweites Mal (harmlos; Einmal-Tasks
+sind verbraucht). EN-Nachholer: 05-back-when-standing produziert, 7/7, 4 PASS geplant, 3 FAIL.
+
+**Facebook.** Reichweite der Seite seit 06.09. 17:25 bei 0–3 Views je Reel, unabhängig vom Weg (Planer-Posts
+vom 07.09. genauso wie API-Posts); „Empfehlung der Seite: Kann empfohlen werden“, also keine Sperre. Ursache
+vermutlich ausgelaufene Testreichweite einer Seite mit 4 Followern plus Spam-Signale (5–7 Reels/Tag, 13
+Uploads in 11 Minuten am 07.09., vier Doppel-Uploads durch Überschneidung Agent/Cross-Posting).
+Maßnahmen: `out/.fb-pause` (meta_crosspost überspringt Facebook, Datei löschen = wieder aktiv); die 13
+geplanten Reels per `fb_pause_scheduled.py --go` um 25 Tage verschoben (Facebook nimmt höchstens 30 Tage ab
+jetzt; Eren hat es ausgeführt, der Classifier blockt Schreibzugriffe auf die Seite aus dem Chat; Ledger
+merkt sich `fb.pausiert_seit`). Vergleichstest 10.09.: Eren postet 09:30 von Hand (02-muskelkater), Claude
+plant 13:15 per API (03-sehnen-federn), sonst nichts auf Facebook. Danach: 1 Reel/Tag, nur TikTok-Bewährte,
+Duplikat-Sperre; Token mit `read_insights` neu erzeugen.
+
+**Nebenbefund.** `tt-metrics` liest nur die ersten neun Studio-Einträge (geplante), veröffentlichte Videos
+fehlen seit dem Planen — reparieren.

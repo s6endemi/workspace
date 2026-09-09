@@ -122,3 +122,11 @@ Dedup liest nur die letzten ~20 Zeilen. Älteres bleibt stehen (Auswertung), ab 
 | 2026-09-10 | Why Your Hip Hurts When You Sleep On Your Side | Batch 2026-09-07-en / 10-hip-side-sleeping | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-10 21:00 | — |
 | 2026-09-12 | Jonas Bought A Standing Desk And Nothing Changed | Batch 2026-09-09-de / 03-jonas-stehpult-f1 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-12 11:30 | — |
 | 2026-09-10 | The Real Reason Your Leg Tingles When Sitting | Batch 2026-09-07-en / 15-leg-tingles-sitting | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-10 23:00 | — |
+| 2026-09-12 | Downstairs Walking Trains A Skill Nobody Practices | Batch 2026-09-09-de / 04-treppe-runter-f3 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-12 13:15 | — |
+| 2026-09-12 | Exercise And Sitting Run On Two Separate Accounts | Batch 2026-09-09-de / 05-sport-rettet-nicht-f3 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-12 16:30 | — |
+| 2026-09-12 | Your Back Was Never As Fragile As You Think | Batch 2026-09-09-de / 06-ruecken-nicht-aus-glas-f3 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-12 19:30 | — |
+| 2026-09-13 | Why Sleeping On Your Back Leaves You Sore | Batch 2026-09-09-de / 08-rueckenschlaefer-kreuz-f2 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 09:30 | — |
+| 2026-09-13 | The Real Reason You Sit Down To Put On Socks | Batch 2026-09-09-de / 09-socken-anziehen-f4 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 11:30 | — |
+| 2026-09-13 | Why Kids Almost Never Complain About Back Pain | Batch 2026-09-09-de / 11-kinder-keine-rueckenschmerzen-f5 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 13:15 | — |
+| 2026-09-13 | Why A City Trip Leaves You Looser Than A Weekend | Batch 2026-09-09-de / 12-urlaub-vs-wochenende-f5 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 16:30 | — |
+| 2026-09-11 | Back pain when you stand for long is not what they keep telling you | Batch 2026-09-07-en / 05-back-when-standing | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-11 14:00 | — |

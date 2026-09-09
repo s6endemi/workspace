@@ -936,3 +936,263 @@ ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen
 - 11-kinder-keine-rueckenschmerzen-f5: quelle ok
 - 12-urlaub-vs-wochenende-f5: quelle ok
 - Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 17:16 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: GEN FEHLER: n)
+Erstellen geklickt
+{'wirdErstellt': False, 'limit': 'Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei'}
+ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei
+- NotebookLM-Limit erkannt — Batch endet hier
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: TAGESLIMIT
+- 05-sport-rettet-nicht-f3: quelle ok
+- 06-ruecken-nicht-aus-glas-f3: quelle ok
+- 07-flug-morgen-f2: quelle ok
+- 08-rueckenschlaefer-kreuz-f2: quelle ok
+- 09-socken-anziehen-f4: quelle ok
+- 10-zappeln-f4: quelle ok
+- 11-kinder-keine-rueckenschmerzen-f5: quelle ok
+- 12-urlaub-vs-wochenende-f5: quelle ok
+- Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 17:46 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: GEN FEHLER: n)
+Erstellen geklickt
+{'wirdErstellt': False, 'limit': 'Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei'}
+ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei
+- NotebookLM-Limit erkannt — Batch endet hier
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: TAGESLIMIT
+- 05-sport-rettet-nicht-f3: quelle ok
+- 06-ruecken-nicht-aus-glas-f3: quelle ok
+- 07-flug-morgen-f2: quelle ok
+- 08-rueckenschlaefer-kreuz-f2: quelle ok
+- 09-socken-anziehen-f4: quelle ok
+- 10-zappeln-f4: quelle ok
+- 11-kinder-keine-rueckenschmerzen-f5: quelle ok
+- 12-urlaub-vs-wochenende-f5: quelle ok
+- Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 18:17 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: GEN FEHLER: n)
+Erstellen geklickt
+{'wirdErstellt': False, 'limit': 'Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei'}
+ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei
+- NotebookLM-Limit erkannt — Batch endet hier
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: TAGESLIMIT
+- 05-sport-rettet-nicht-f3: quelle ok
+- 06-ruecken-nicht-aus-glas-f3: quelle ok
+- 07-flug-morgen-f2: quelle ok
+- 08-rueckenschlaefer-kreuz-f2: quelle ok
+- 09-socken-anziehen-f4: quelle ok
+- 10-zappeln-f4: quelle ok
+- 11-kinder-keine-rueckenschmerzen-f5: quelle ok
+- 12-urlaub-vs-wochenende-f5: quelle ok
+- Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 18:47 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: GEN FEHLER: n)
+Erstellen geklickt
+{'wirdErstellt': False, 'limit': 'Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei'}
+ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei
+- NotebookLM-Limit erkannt — Batch endet hier
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: TAGESLIMIT
+- 05-sport-rettet-nicht-f3: quelle ok
+- 06-ruecken-nicht-aus-glas-f3: quelle ok
+- 07-flug-morgen-f2: quelle ok
+- 08-rueckenschlaefer-kreuz-f2: quelle ok
+- 09-socken-anziehen-f4: quelle ok
+- 10-zappeln-f4: quelle ok
+- 11-kinder-keine-rueckenschmerzen-f5: quelle ok
+- 12-urlaub-vs-wochenende-f5: quelle ok
+- Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 19:17 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: GEN FEHLER: n)
+Erstellen geklickt
+{'wirdErstellt': False, 'limit': 'Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei'}
+ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei
+- NotebookLM-Limit erkannt — Batch endet hier
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: TAGESLIMIT
+- 05-sport-rettet-nicht-f3: quelle ok
+- 06-ruecken-nicht-aus-glas-f3: quelle ok
+- 07-flug-morgen-f2: quelle ok
+- 08-rueckenschlaefer-kreuz-f2: quelle ok
+- 09-socken-anziehen-f4: quelle ok
+- 10-zappeln-f4: quelle ok
+- 11-kinder-keine-rueckenschmerzen-f5: quelle ok
+- 12-urlaub-vs-wochenende-f5: quelle ok
+- Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 19:48 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: GEN FEHLER: n)
+Erstellen geklickt
+{'wirdErstellt': False, 'limit': 'Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei'}
+ABBRUCH: TAGESLIMIT: Tageslimit für Video-Zusammenfassungen erreicht. Versuchen Sie es später noch einmal. Alternativ können Sie ei
+- NotebookLM-Limit erkannt — Batch endet hier
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: TAGESLIMIT
+- 05-sport-rettet-nicht-f3: quelle ok
+- 06-ruecken-nicht-aus-glas-f3: quelle ok
+- 07-flug-morgen-f2: quelle ok
+- 08-rueckenschlaefer-kreuz-f2: quelle ok
+- 09-socken-anziehen-f4: quelle ok
+- 10-zappeln-f4: quelle ok
+- 11-kinder-keine-rueckenschmerzen-f5: quelle ok
+- 12-urlaub-vs-wochenende-f5: quelle ok
+- Exit 3: TAGESLIMIT, offen: 9
+
+## Batch 2026-09-08-abend-de — 2026-09-09 20:18 — 12 Items, Sprache Deutsch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/3b517586-d32a-4440-b50f-78d95c01495e
+- 01-jonas-bauchschlaf-f1: fertig, uebersprungen
+- 02-jonas-fahrrad-f1: fertig, uebersprungen
+- 03-jonas-stehpult-f1: fertig, uebersprungen
+- 04-treppe-runter-f3: Quelle schon im Notebook (Status vorher: TAGESLIMIT)
+- 05-sport-rettet-nicht-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 06-ruecken-nicht-aus-glas-f3: Quelle schon im Notebook (Status vorher: quelle ok)
+- 07-flug-morgen-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 08-rueckenschlaefer-kreuz-f2: Quelle schon im Notebook (Status vorher: quelle ok)
+- 09-socken-anziehen-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-zappeln-f4: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-kinder-keine-rueckenschmerzen-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-urlaub-vs-wochenende-f5: Quelle schon im Notebook (Status vorher: quelle ok)
+- 04-treppe-runter-f3: Generierung gestartet (20:19)
+- 05-sport-rettet-nicht-f3: Generierung gestartet (20:19)
+- 06-ruecken-nicht-aus-glas-f3: Generierung gestartet (20:20)
+- Welle fertig nach 6 min: 3 neue Artefakte fuer 3 Starts
+- 04-treppe-runter-f3: OK 1:12 9181 KB -> 2026-09-09-de-04-treppe-runter-f3.mp4
+- 06-ruecken-nicht-aus-glas-f3: OK 1:06 8665 KB -> 2026-09-09-de-06-ruecken-nicht-aus-glas-f3.mp4
+- 05-sport-rettet-nicht-f3: OK 0:55 7076 KB -> 2026-09-09-de-05-sport-rettet-nicht-f3.mp4
+- 07-flug-morgen-f2: Generierung gestartet (20:27)
+- 08-rueckenschlaefer-kreuz-f2: Generierung gestartet (20:27)
+- 09-socken-anziehen-f4: Generierung gestartet (20:27)
+- Welle fertig nach 16 min: 3 neue Artefakte fuer 3 Starts
+- 09-socken-anziehen-f4: OK 1:00 8094 KB -> 2026-09-09-de-09-socken-anziehen-f4.mp4
+- 08-rueckenschlaefer-kreuz-f2: OK 1:07 8510 KB -> 2026-09-09-de-08-rueckenschlaefer-kreuz-f2.mp4
+- 07-flug-morgen-f2: OK 1:06 9015 KB -> 2026-09-09-de-07-flug-morgen-f2.mp4
+- 10-zappeln-f4: Generierung gestartet (20:45)
+- 11-kinder-keine-rueckenschmerzen-f5: Generierung gestartet (20:45)
+- 12-urlaub-vs-wochenende-f5: Generierung gestartet (20:45)
+- Welle fertig nach 14 min: 3 neue Artefakte fuer 3 Starts
+- 10-zappeln-f4: OK 0:54 6979 KB -> 2026-09-09-de-10-zappeln-f4.mp4
+- 12-urlaub-vs-wochenende-f5: OK 1:01 8224 KB -> 2026-09-09-de-12-urlaub-vs-wochenende-f5.mp4
+- 11-kinder-keine-rueckenschmerzen-f5: OK 0:54 7195 KB -> 2026-09-09-de-11-kinder-keine-rueckenschmerzen-f5.mp4
+
+### Ergebnis
+- 01-jonas-bauchschlaf-f1: OK (vorhanden)
+- 02-jonas-fahrrad-f1: OK (vorhanden)
+- 03-jonas-stehpult-f1: OK (vorhanden)
+- 04-treppe-runter-f3: OK 1:12 -> 2026-09-09-de-04-treppe-runter-f3.mp4
+- 05-sport-rettet-nicht-f3: OK 0:55 -> 2026-09-09-de-05-sport-rettet-nicht-f3.mp4
+- 06-ruecken-nicht-aus-glas-f3: OK 1:06 -> 2026-09-09-de-06-ruecken-nicht-aus-glas-f3.mp4
+- 07-flug-morgen-f2: OK 1:06 -> 2026-09-09-de-07-flug-morgen-f2.mp4
+- 08-rueckenschlaefer-kreuz-f2: OK 1:07 -> 2026-09-09-de-08-rueckenschlaefer-kreuz-f2.mp4
+- 09-socken-anziehen-f4: OK 1:00 -> 2026-09-09-de-09-socken-anziehen-f4.mp4
+- 10-zappeln-f4: OK 0:54 -> 2026-09-09-de-10-zappeln-f4.mp4
+- 11-kinder-keine-rueckenschmerzen-f5: OK 0:54 -> 2026-09-09-de-11-kinder-keine-rueckenschmerzen-f5.mp4
+- 12-urlaub-vs-wochenende-f5: OK 1:01 -> 2026-09-09-de-12-urlaub-vs-wochenende-f5.mp4

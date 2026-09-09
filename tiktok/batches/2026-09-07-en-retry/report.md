@@ -370,3 +370,25 @@ ABBRUCH: Auswahl nach 2 Versuchen nicht uebernommen — nicht generieren.
 ## Einsammeln 2026-09-07-en-retry — 2026-09-09 00:36
 - offen: 1 Items | Artefakte im Notebook: 14 | wird erstellt: False
 - 05-back-when-standing: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+
+## Batch 2026-09-07-en-retry — 2026-09-09 22:35 — 7 Items, Sprache Englisch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/652d20bc-8e43-4028-a01d-ae0d5617bd3b
+- 02-hip-after-driving: fertig, uebersprungen
+- 04-soft-sofa: fertig, uebersprungen
+- 05-back-when-standing: Quelle schon im Notebook (Status vorher: GEN FEHLER)
+- 07-heel-first-steps: fertig, uebersprungen
+- 10-hip-side-sleeping: fertig, uebersprungen
+- 15-leg-tingles-sitting: fertig, uebersprungen
+- 18-looking-up-neck: fertig, uebersprungen
+- 05-back-when-standing: Generierung gestartet (22:35)
+- Welle fertig nach 5 min: 1 neue Artefakte fuer 1 Starts
+- 05-back-when-standing: OK 0:56 5842 KB -> 2026-09-07-en-05-back-when-standing.mp4
+
+### Ergebnis
+- 02-hip-after-driving: OK (vorhanden)
+- 04-soft-sofa: OK (vorhanden)
+- 05-back-when-standing: OK 0:56 -> 2026-09-07-en-05-back-when-standing.mp4
+- 07-heel-first-steps: OK (vorhanden)
+- 10-hip-side-sleeping: OK (vorhanden)
+- 15-leg-tingles-sitting: OK (vorhanden)
+- 18-looking-up-neck: OK (vorhanden)
