@@ -1,0 +1,44 @@
+{
+ "2026-09-07-en-02-hip-after-driving": {
+  "pass": false,
+  "grund": "Ab Reihe 1 durchgehend Strichfigur/Gelenk-Diagramm statt Sticker-Mann, Charakter fehlt komplett.",
+  "leer": 1.0,
+  "quelle": "urteil"
+ },
+ "2026-09-07-en-04-soft-sofa": {
+  "pass": false,
+  "grund": "Ab Reihe 5 mind. 8 Frames ohne Charakter, nur Icons, Sofa, Text.",
+  "leer": 0.53,
+  "quelle": "urteil"
+ },
+ "2026-09-07-en-02-back-cracking": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, nur kurze Hand-Nahaufnahme bei Türgriff",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-07-en-07-heel-first-steps": {
+  "pass": true,
+  "grund": "Charakter in jeder Reihe präsent, Schild und Diagramme nur neben ihm",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-07-en-10-hip-side-sleeping": {
+  "pass": true,
+  "grund": "Charakter durchgehend erkennbar, auch beim Schlafen unter Decke",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-07-en-15-leg-tingles-sitting": {
+  "pass": true,
+  "grund": "Charakter in allen Reihen durchgehend zu sehen",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-07-en-18-looking-up-neck": {
+  "pass": false,
+  "grund": "Ab Reihe 1 über 12 Frames nur Strichfigur/Skelett-Diagramm statt Charakter",
+  "leer": 0.7,
+  "quelle": "urteil"
+ }
+}

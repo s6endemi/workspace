@@ -1,0 +1,68 @@
+{
+ "2026-09-05-de-01-unterer-ruecken": {
+  "pass": false,
+  "grund": "Ab Reihe 2 rund 10 Frames nur Last-Balkendiagramm, kein Charakter sichtbar",
+  "leer": 0.66,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-02-ruecken-beim-stehen": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, nur kurze Textkarten am Ende",
+  "leer": 0.81,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-03-nacken-knacken": {
+  "pass": true,
+  "grund": "Charakter in praktisch jedem Frame präsent",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-04-hocke": {
+  "pass": true,
+  "grund": "Nur kurze Diagramm-/Vergleichsfiguren, Charakter kehrt schnell zurück",
+  "leer": 1.0,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-05-ischias-kribbeln": {
+  "pass": false,
+  "grund": "Ab Reihe 1 rund 20 Frames nur Icons/Punkte/Silhouette, kein Charakter",
+  "leer": 0.76,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-06-atmung-recycle": {
+  "pass": true,
+  "grund": "Rippenkorb- und Balken-Einschübe jeweils kurz, Charakter kehrt zurück",
+  "leer": 0.59,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-07-huefte-auto": {
+  "pass": true,
+  "grund": "Sticker-Mann durchgehend präsent in Auto- und Dehnungsszenen.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-09-schultern-ohren": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, inkl. erlaubter Gesichtsnahaufnahmen und Handykarten.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-10-sofa-abend": {
+  "pass": true,
+  "grund": "Charakter durchgehend erkennbar, auch eingewickelt; Schlussfigur ausdrücklich erlaubt.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-11-acht-stunden-sitzen": {
+  "pass": false,
+  "grund": "Reihe 1: ab dort ~17 Frames Strichfigur statt Sticker-Mann, kein Charakter.",
+  "leer": 0.54,
+  "quelle": "urteil"
+ },
+ "2026-09-05-de-12-kopfschmerz-nacken": {
+  "pass": false,
+  "grund": "Reihe 1: anatomische Schädel/Nacken-Schnittzeichnung statt Charakter, praktisch ganzes Video.",
+  "leer": 0.76,
+  "quelle": "urteil"
+ }
+}

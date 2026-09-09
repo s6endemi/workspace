@@ -1,0 +1,29 @@
+# Your walk is probably smaller than it needs to be
+
+**Thema:** Gangbild und verlorene Rückseite des Schritts
+
+**Format/Experiment:** symptom; Hit-Recycling Verlorene Kunst des Gehens mit neuem Hook
+
+## Caption
+
+Dein Gang kann kleiner werden, ohne dass du es bemerkst. Nicht weil du zu wenig Schritte zählst, sondern weil Hüfte, Fuß und Arm nach einem langen Sitztag kaum noch zusammenarbeiten. Geh einmal den Flur entlang und achte auf die Rückseite deines Schritts. Speichere dir den Test für morgen.
+
+#gehen #gangbild #hüftbeweglichkeit #bewegungsanalyse #previahealth
+
+## Quellskript
+
+`source: sources/2026-08-31-walk-smaller-than-you-think.txt`
+
+Your walk is probably smaller than it needs to be
+
+Your walk can shrink so gradually that you never notice it. Then you leave a long meeting, take the first few steps to get coffee, and your hips, ankles, and lower back all feel like they are starting a cold engine.
+
+The surprising part is that the answer is not necessarily a longer stride. Reaching too far in front can make walking feel heavier. What often disappears first is the quiet movement behind you: the hip finishing its extension, the foot rolling through, and the opposite arm swinging without being glued to your side.
+
+When that back half of the step gets smaller, your body still has to get you forward. It may borrow motion from the lower back, turn the feet out, or keep everything rigid. You can still walk across the room. It just costs more attention than it should.
+
+With PREVIA, you can use a quick movement check to see whether one side is doing a different version of the same walk. The point is not a perfect gait. It is noticing the compensation before it becomes your default.
+
+Here is a simple experiment. Walk down a hallway at your normal speed. On the next pass, do not force a bigger step. Instead, let the trailing heel lift naturally and let your arm swing behind you for ten relaxed steps. Notice whether the second pass feels less wooden.
+
+That is why walking can be more than getting from your desk to the kitchen. It is a low-stakes rehearsal for hips, feet, ribs, and balance all sharing the job. If a movement causes sharp pain, repeated giving way, or new numbness, stop and have it assessed. Otherwise, give your everyday walk some of its missing motion back.

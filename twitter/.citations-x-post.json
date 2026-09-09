@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40416048",
+      "title": "El-Rajab et al. (2025), PubMed PMID 40416048",
+      "accessed": "2026-08-26"
+    },
+    {
+      "id": 2,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12098270",
+      "title": "El-Rajab et al. (2025), full text PMC12098270",
+      "accessed": "2026-08-26"
+    }
+  ]
+}

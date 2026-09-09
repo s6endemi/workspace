@@ -1,0 +1,62 @@
+{
+ "01-morgens-groesser": {
+  "frag": "Why You're Taller In The",
+  "hook": "Du bist morgens einen Zentimeter größer als abends, und der Grund verändert, wie du sitzen solltest.",
+  "status": "OK 1:04 -> 2026-09-08-de-01-morgens-groesser.mp4"
+ },
+ "02-muskelkater-zwei-tage": {
+  "frag": "Why Muscle Soreness Waits Two",
+  "hook": "Muskelkater kommt nicht am nächsten Tag. Er kommt am übernächsten, und das hat einen Grund.",
+  "status": "OK 0:57 -> 2026-09-08-de-02-muskelkater-zwei-tage.mp4"
+ },
+ "03-sehnen-federn": {
+  "frag": "The Free Energy Hiding In",
+  "hook": "Die Hälfte jedes Schritts sollte umsonst sein, und die meisten kassieren sie nicht mehr ein.",
+  "status": "OK 1:05 -> 2026-09-08-de-03-sehnen-federn.mp4"
+ },
+ "04-dehnen-gehirn": {
+  "frag": "Your Muscles Never Get Longer",
+  "hook": "Dehnen macht deine Muskeln nicht länger. Es überredet dein Gehirn, und das ändert alles.",
+  "status": "OK (vorhanden)"
+ },
+ "05-po-vergisst": {
+  "frag": "Your Butt Is Falling Asleep",
+  "hook": "Dein Po vergisst gerade, dass er überhaupt existiert. Und dein Rücken bezahlt dafür.",
+  "status": "OK (vorhanden)"
+ },
+ "06-schmerz-alarm": {
+  "frag": "Your Pain Is An Alarm,",
+  "hook": "Schmerz zeigt dir nicht, wo etwas kaputt ist. Er zeigt dir, wo dein Körper Alarm schlägt.",
+  "status": "OK (vorhanden)"
+ },
+ "07-knochen-konto": {
+  "frag": "Your Bones Are Quietly Running",
+  "hook": "Deine Knochen sind ein Bankkonto, und ab dreißig zahlen die meisten nur noch aus.",
+  "status": "OK 0:55 -> 2026-09-08-de-07-knochen-konto.mp4"
+ },
+ "08-drei-tage-bett": {
+  "frag": "Bed Rest Costs You More",
+  "hook": "Drei Tage im Bett kosten dich mehr Muskel, als drei Wochen Training je zurückbringen.",
+  "status": "OK 0:53 -> 2026-09-08-de-08-drei-tage-bett.mp4"
+ },
+ "09-gang-verraet-alter": {
+  "frag": "The Way You Walk Reveals",
+  "hook": "Dein Gang verrät, wie alt dein Körper wirklich ist, und man sieht es in drei Sekunden.",
+  "status": "OK 1:02 -> 2026-09-08-de-09-gang-verraet-alter.mp4"
+ },
+ "10-schmerz-falscher-ort": {
+  "frag": "Why Your Knee Pain Might",
+  "hook": "Dein Knie tut weh, aber das Problem sitzt eine Etage höher, und das hat dir nie jemand gesagt.",
+  "status": "OK (vorhanden)"
+ },
+ "11-koerper-streckt-sich": {
+  "frag": "Why Your Body Stretches Itself",
+  "hook": "Dass dein Körper sich morgens von selbst streckt, hat nichts mit Müdigkeit zu tun.",
+  "status": "OK (vorhanden)"
+ },
+ "12-faszie-folie": {
+  "frag": "Why Your Whole Body Feels",
+  "hook": "In deinem Körper klebt morgens alles ein bisschen zusammen, und genau deshalb wachst du steif auf.",
+  "status": "KEIN ARTEFAKT"
+ }
+}

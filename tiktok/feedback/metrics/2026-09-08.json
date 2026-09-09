@@ -1,0 +1,331 @@
+{
+  "collected_at": "2026-09-08T12:00:16+02:00",
+  "accounts": {
+    "previahealth": {
+      "port": 9222,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "5.4K",
+            "value": 5400,
+            "comparison_display": "-177",
+            "comparison": -177,
+            "change_display": "(-3.2%)",
+            "change_percent": -3.2
+          },
+          "profile_views": {
+            "value_display": "11",
+            "value": 11,
+            "comparison_display": "-12",
+            "comparison": -12,
+            "change_display": "(-52.2%)",
+            "change_percent": -52.2
+          },
+          "likes": {
+            "value_display": "139",
+            "value": 139,
+            "comparison_display": "-37",
+            "comparison": -37,
+            "change_display": "(-21.0%)",
+            "change_percent": -21
+          },
+          "comments": {
+            "value_display": "7",
+            "value": 7,
+            "comparison_display": "-7",
+            "comparison": -7,
+            "change_display": "(-50.0%)",
+            "change_percent": -50
+          },
+          "shares": {
+            "value_display": "4",
+            "value": 4,
+            "comparison_display": "-1",
+            "comparison": -1,
+            "change_display": "(-20.0%)",
+            "change_percent": -20
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "106",
+            "value": 106
+          },
+          "net": {
+            "value_display": "1",
+            "value": 1,
+            "comparison_display": "+1",
+            "comparison": 1,
+            "change_display": "(--)",
+            "change_percent": null
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7683096290913193238",
+          "url": "https://www.tiktok.com/@previahealth/video/7683096290913193238",
+          "caption": "Sit down on the floor, then stand up without using your hands. Your ankle, hip and balance need to work together for that, and years of rising only from chairs, sofas and car seats let that combination go quiet. Test your movement age with Previa Health in about two minutes on your phone, free. How many hands do you need? Tell me in the comments. #Mobility #Balance #AnkleMobility #MovementAge #PreviaHealth",
+          "duration": "01:09",
+          "created": "9. Sept., 23:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682549131688103190",
+          "url": "https://www.tiktok.com/@previahealth/video/7682549131688103190",
+          "caption": "Feet pointing outward when you walk? It is usually not the foot, it is the hip, which forgot how to turn inward after all that sitting. Three small moves bring that turn back. Test it in about two minutes on your phone, free, with Previa Health, and see how far your hip has actually stopped turning. Look at your feet right now. Do they point out? Tell me in the comments. #duckfeet #hipmobility #footposition #gait #PreviaHealth",
+          "duration": "00:55",
+          "created": "9. Sept., 21:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548948468305174",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548948468305174",
+          "caption": "Eight hours at a desk holds your neck, ribcage, hips and ankles shut all at once, not one at a time. Getting up for two minutes every hour, rotating your ribcage while seated, and pumping your calves under the desk open everything back up. Test it in about two minutes on your phone, free, with Previa Health, and see where you are stuck the most. Save this for your next office day. #deskjob #sittingtoolong #mobility #officelife #PreviaHealth",
+          "duration": "01:02",
+          "created": "9. Sept., 19:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548792867949846",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548792867949846",
+          "caption": "Jaw feels tired and heavy by the end of the day? Your head drifts forward toward the screen all day, and your jaw and neck quietly hold it up, so your teeth end up resting together for hours. Tongue to the roof of your mouth, chin pulled straight back, and opening your chest in the evening give it real relief. Test it in about two minutes on your phone, free, with Previa Health. Save this for your next screen heavy day. #jawtension #neckpain #screentime #posture #PreviaHealth",
+          "duration": "01:06",
+          "created": "9. Sept., 14:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548640463834371",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548640463834371",
+          "caption": "A slow stroll can wreck your back worse than a whole hike. Real walking lets the hip swing all the way through, but strolling stops it halfway, so your lower back locks up and carries your torso alone. Brisk steps between stops, shifting your weight at shop windows, and a half kneeling lunge at night give the hip its stride back. Previa Health lets you test it on your phone in about two minutes, free. Save this for your next slow walk. #backpain #hipmobility #walkingtips #posturefix #PreviaHealth",
+          "duration": "01:06",
+          "created": "8. Sept., 23:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548524931697942",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548524931697942",
+          "caption": "Jacket pinching your shoulder at the second sleeve? The backward rotation is missing because your shoulder rolls forward all day over a desk or a wheel, and the front of it slowly shortens. A doorframe stretch, pushing your elbow forward, and shoulder blade circles give it back its range. Test which shoulder is actually stuck with Previa Health in about two minutes on your phone, free. Save this for your next jacket. #ShoulderPain #ShoulderMobility #DeskLife #Tension #PreviaHealth",
+          "duration": "00:53",
+          "created": "8. Sept., 21:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548333231050006",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548333231050006",
+          "caption": "Always carrying your bag on the same shoulder? Your shoulder hikes up to keep the strap from sliding, and the neck muscle on that side carries the weight like a little crane while the other side just hangs along. Switching sides, rolling your shoulders, and a short evening stretch give it a break. Test which side is really overworked with Previa Health in about two minutes on your phone, free. Save this for your next errand. #NeckTension #ShoulderBag #NeckPain #EverydayPosture #PreviaHealth",
+          "duration": "01:01",
+          "created": "8. Sept., 19:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548239987379478",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548239987379478",
+          "caption": "Hands fall asleep at night? A folded wrist and a shoulder rolled forward narrow the path from your neck down to your fingers, like a garden hose kinked under your shoulder. Keeping your wrist straight at night, opening your chest before bed, and stretching your forearm restore the flow. Test which side is pinched with Previa Health in about two minutes on your phone, free. Save this for tonight. #WristPain #NightTingling #SleepPosition #NumbHands #PreviaHealth",
+          "duration": "00:56",
+          "created": "8. Sept., 14:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7618687139789720854",
+          "url": "https://www.tiktok.com/@previahealth/video/7618687139789720854",
+          "caption": "You've never taken a real full breath. Not because something is wrong with your lungs — but because your body physically won't let you. When your upper back is stiff and your shoulders are rounded, your ribcage can't fully expand. So your body defaults to shallow chest breathing. That keeps your nervous system in a low-level stress state all day. The fix isn't breathing exercises. It's unlocking the ribcage first. Once the cage opens, everything changes — sleep, stress, energy, recovery. #breathing #mobility #posture #stressrelief",
+          "duration": "02:54",
+          "created": "19. März, 16:10",
+          "pinned": true,
+          "views": "327",
+          "likes": "16",
+          "comments": "2"
+        }
+      ]
+    },
+    "previahealth_de": {
+      "port": 9223,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "9K",
+            "value": 9000,
+            "comparison_display": "+4.3K",
+            "comparison": 4300,
+            "change_display": "(92.9%)",
+            "change_percent": 92.9
+          },
+          "profile_views": {
+            "value_display": "28",
+            "value": 28,
+            "comparison_display": "+2",
+            "comparison": 2,
+            "change_display": "(7.7%)",
+            "change_percent": 7.7
+          },
+          "likes": {
+            "value_display": "168",
+            "value": 168,
+            "comparison_display": "+52",
+            "comparison": 52,
+            "change_display": "(44.8%)",
+            "change_percent": 44.8
+          },
+          "comments": {
+            "value_display": "11",
+            "value": 11,
+            "comparison_display": "-1",
+            "comparison": -1,
+            "change_display": "(-8.3%)",
+            "change_percent": -8.3
+          },
+          "shares": {
+            "value_display": "10",
+            "value": 10,
+            "comparison_display": "+8",
+            "comparison": 8,
+            "change_display": "(400.0%)",
+            "change_percent": 400
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "1.3K",
+            "value": 1300
+          },
+          "net": {
+            "value_display": "6",
+            "value": 6,
+            "comparison_display": "+4",
+            "comparison": 4,
+            "change_display": "(200%)",
+            "change_percent": 200
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7683099694125403414",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099694125403414",
+          "caption": "Das große Strecken am Morgen ist kein Zufall, dein Körper resettet damit die Spannung der Nacht, genau wie eine Katze nach dem Nickerchen. Previa Health zeigt dir am Handy, wie beweglich du wirklich bist. Speicher dir das für die nächste Sitzpause. Streckst du dich auch heimlich unterm Schreibtisch? #Morgenroutine #Beweglichkeit #Koerperwissen #Buerojob #PreviaHealth",
+          "duration": "01:04",
+          "created": "11. Sept., 13:15",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099578941377814",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099578941377814",
+          "caption": "Muskeln, die nichts tragen müssen, baut dein Körper sofort ab, aber der Aufbau danach dauert immer viel länger. Deshalb wackeln nach einer Grippe die Beine auf der Treppe. Previa Health zeigt dir in rund zwei Minuten, wo dein Körper gerade steht. Speicher dir das für die nächste Pause. #Muskelaufbau #Longevity #Bewegungsalter #Alltagsbewegung #PreviaHealth",
+          "duration": "00:50",
+          "created": "11. Sept., 11:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099466181725462",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099466181725462",
+          "caption": "Deine Knochen werden ständig neu aufgebaut, aber nur dort, wo sie wirklich Stöße spüren. Ohne Belastung baut dein Körper leise ab, was niemand nutzt. Mit Previa Health siehst du in rund zwei Minuten, wie belastet dein Körper wirklich ist. Speicher dir das für den nächsten Treppen-Tag. #Knochengesundheit #Bewegungsalter #Alltagsbewegung #Longevity #PreviaHealth",
+          "duration": "00:52",
+          "created": "11. Sept., 09:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099305925692694",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099305925692694",
+          "caption": "Schmerz zeigt nicht, was kaputt ist, sondern wo dein Körper gerade Alarm schlägt, auch ganz ohne Schaden. Previa Health hilft dir in zwei Minuten zu verstehen, wie sich das bei dir anfühlt. Speicher dir das für schlechte Tage. #schmerzverstehen #koerperwissen #rueckenschmerzen #longevity #PreviaHealth",
+          "duration": "00:54",
+          "created": "10. Sept., 19:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099172723084566",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099172723084566",
+          "caption": "Dein Po schaltet beim langen Sitzen einfach ab, und Rücken und Oberschenkel übernehmen seinen Job. Previa Health zeigt dir in zwei Minuten, wo genau das bei dir passiert. Wie lange sitzt du am Stück? Schreib es in die Kommentare. #sitzen #rueckenschmerzen #buerojob #koerperwissen #PreviaHealth",
+          "duration": "00:53",
+          "created": "10. Sept., 16:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099064686136598",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099064686136598",
+          "caption": "Dehnen macht deine Muskeln nicht länger, es beruhigt dein Nervensystem, und genau das bringt dich weiter. Mit Previa Health siehst du in zwei Minuten, wie beweglich dein Körper wirklich ist. Speicher dir das für den nächsten Stretch. #beweglichkeit #dehnen #koerperwissen #longevity #PreviaHealth",
+          "duration": "00:49",
+          "created": "10. Sept., 13:15",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683098927612120342",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683098927612120342",
+          "caption": "Bei jedem Schritt federt eine Sehne in deinem Fuß Energie zurück, fast wie ein Trampolin. Schlurfst du oder trägst weiche Schuhe, macht plötzlich dein Muskel die ganze Arbeit allein. Zügige Schritte mit Abstoß über den großen Zeh holen die Feder zurück. Mit Previa Health siehst du in zwei Minuten, wie gut deine Feder noch arbeitet. Speicher dir das für deinen nächsten Spaziergang. #Gehen #Sehnen #Koerperwissen #Beweglichkeit #PreviaHealth",
+          "duration": "01:02",
+          "created": "10. Sept., 11:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683098806921006358",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683098806921006358",
+          "caption": "Muskelkater kommt nicht sofort, sondern meist erst zwei Tage später, weil die eigentliche Reparatur im Muskel erst dann richtig anläuft. Deshalb tut Treppabgehen mehr weh als Treppaufgehen. Geh am Tag danach lieber spazieren statt nur zu liegen. Mit Previa Health checkst du in zwei Minuten, wie belastbar dein Körper gerade ist. Sag mir in den Kommentaren, wann es dich zuletzt erwischt hat. #Muskelkater #Regeneration #Training #Koerperwissen #PreviaHealth",
+          "duration": "00:54",
+          "created": "10. Sept., 09:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683098691716091158",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683098691716091158",
+          "caption": "Du bist morgens ein bisschen größer als abends, weil deine Bandscheiben sich nachts wieder vollsaugen und tagsüber unter Last zusammengedrückt werden. Wer stundenlang sitzt, presst sie schneller aus. Steh alle 45 Minuten auf und leg dich abends kurz flach hin. Mit Previa Health siehst du in zwei Minuten, wie stark das bei dir wirkt. Speicher dir das für morgen früh. #Bandscheiben #Rueckengesundheit #Langesitzen #Buerojob #PreviaHealth",
+          "duration": "01:01",
+          "created": "9. Sept., 19:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        }
+      ]
+    }
+  }
+}

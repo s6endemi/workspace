@@ -1,0 +1,320 @@
+{
+  "collected_at": "2026-09-06T12:01:08+02:00",
+  "accounts": {
+    "previahealth": {
+      "port": 9222,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "7K",
+            "value": 7000,
+            "comparison_display": "+3.9K",
+            "comparison": 3900,
+            "change_display": "(123.9%)",
+            "change_percent": 123.9
+          },
+          "profile_views": {
+            "value_display": "20",
+            "value": 20,
+            "comparison_display": "+8",
+            "comparison": 8,
+            "change_display": "(66.7%)",
+            "change_percent": 66.7
+          },
+          "likes": {
+            "value_display": "183",
+            "value": 183,
+            "comparison_display": "+72",
+            "comparison": 72,
+            "change_display": "(64.9%)",
+            "change_percent": 64.9
+          },
+          "comments": {
+            "value_display": "6",
+            "value": 6,
+            "comparison_display": "-8",
+            "comparison": -8,
+            "change_display": "(-57.1%)",
+            "change_percent": -57.1
+          },
+          "shares": {
+            "value_display": "5",
+            "value": 5,
+            "comparison_display": "+1",
+            "comparison": 1,
+            "change_display": "(25.0%)",
+            "change_percent": 25
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "105",
+            "value": 105
+          },
+          "net": {
+            "value_display": "1",
+            "value": 1,
+            "comparison_display": "+1",
+            "comparison": 1,
+            "change_display": "(--)",
+            "change_percent": null
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7618687139789720854",
+          "url": "https://www.tiktok.com/@previahealth/video/7618687139789720854",
+          "caption": "You've never taken a real full breath. Not because something is wrong with your lungs — but because your body physically won't let you. When your upper back is stiff and your shoulders are rounded, your ribcage can't fully expand. So your body defaults to shallow chest breathing. That keeps your nervous system in a low-level stress state all day. The fix isn't breathing exercises. It's unlocking the ribcage first. Once the cage opens, everything changes — sleep, stress, energy, recovery. #breathing #mobility #posture #stressrelief",
+          "duration": "02:54",
+          "created": "19. März, 16:10",
+          "pinned": true,
+          "views": "327",
+          "likes": "16",
+          "comments": "2"
+        },
+        {
+          "video_id": "7615259892852509974",
+          "url": "https://www.tiktok.com/@previahealth/video/7615259892852509974",
+          "caption": "The Posture lie, find out with the link in bio! #backpain #posture #deskjob",
+          "duration": "01:37",
+          "created": "9. März, 20:45",
+          "pinned": true,
+          "views": "442",
+          "likes": "30",
+          "comments": "0"
+        },
+        {
+          "video_id": "7615745215311334678",
+          "url": "https://www.tiktok.com/@previahealth/video/7615745215311334678",
+          "caption": "Your body literally adapts to that shape. Find out exactly where your mobility is blocked before it turns into real pain. Take the 5-min AI movement test from your phone (it's free). Link in bio to get your score✨ #mobility #deskjob #morningroutine #posture #backpain",
+          "duration": "",
+          "created": "10. März, 22:41",
+          "pinned": true,
+          "views": "279",
+          "likes": "69",
+          "comments": "6"
+        },
+        {
+          "video_id": "7681687095588457750",
+          "url": "https://www.tiktok.com/@previahealth/video/7681687095588457750",
+          "caption": "If a stretch feels amazing for ten minutes and then the same muscle locks up again, more stretching may not be the missing piece. Sometimes a tight area is doing extra work to keep you steady. Give it a little movement and control first, then see what changes. Save this for the next time you reach for the foam roller. #mobilitytraining #movementhealth #tightmuscles #posturehabits #bodyawareness",
+          "duration": "00:53",
+          "created": "5. Sept., 12:00",
+          "pinned": false,
+          "views": "802",
+          "likes": "20",
+          "comments": "1"
+        },
+        {
+          "video_id": "7681758800344304918",
+          "url": "https://www.tiktok.com/@previahealth/video/7681758800344304918",
+          "caption": "A short flight can leave your hips, ankles, and low back feeling far older than the calendar says. A cramped seat keeps the same few positions for hours, then asks your body to switch back fast. Try these three small resets at the gate or hotel. Which area changes first for you after flying? #TravelMobility #HipMobility #AnkleMobility #MovementIntelligence #PreviaHealth",
+          "duration": "01:02",
+          "created": "4. Sept., 21:30",
+          "pinned": false,
+          "views": "774",
+          "likes": "13",
+          "comments": "1"
+        },
+        {
+          "video_id": "7681755369688812822",
+          "url": "https://www.tiktok.com/@previahealth/video/7681755369688812822",
+          "caption": "If standing on one leg to put on a sock feels sketchier than it used to, your body may be missing the small balance corrections that smooth floors, chairs, and firm shoes rarely demand. Try the counter, weight shift, and stair pause sequence tonight. Save this for your next rushed morning. #BalanceTraining #AnkleMobility #HealthyAging #MovementIntelligence #PreviaHealth",
+          "duration": "01:03",
+          "created": "4. Sept., 20:54",
+          "pinned": false,
+          "views": "287",
+          "likes": "6",
+          "comments": "0"
+        },
+        {
+          "video_id": "7681006783279664407",
+          "url": "https://www.tiktok.com/@previahealth/video/7681006783279664407",
+          "caption": "A desk day does more than make you stiff. It can make ordinary movement feel less automatic because your body has spent hours using the same tiny range of positions. A few slow weight shifts, turns, and a real walk can give that system more to work with. Keep this for the next day you feel clumsy for no obvious reason. #balancepractice #proprioception #movementquality #deskbody #mobilityroutine",
+          "duration": "01:10",
+          "created": "2. Sept., 20:29",
+          "pinned": false,
+          "views": "839",
+          "likes": "18",
+          "comments": "0"
+        },
+        {
+          "video_id": "7681006535132122370",
+          "url": "https://www.tiktok.com/@previahealth/video/7681006535132122370",
+          "caption": "If a stretch feels amazing for ten minutes and then the same muscle locks up again, more stretching may not be the missing piece. Sometimes a tight area is doing extra work to keep you steady. Give it a little movement and control first, then see what changes. Save this for the next time you reach for the foam roller. #mobilitytraining #movementhealth #tightmuscles #posturehabits #bodyawareness",
+          "duration": "01:09",
+          "created": "2. Sept., 20:28",
+          "pinned": false,
+          "views": "821",
+          "likes": "15",
+          "comments": "1"
+        }
+      ]
+    },
+    "previahealth_de": {
+      "port": 9223,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "5.9K",
+            "value": 5900,
+            "comparison_display": "+3.4K",
+            "comparison": 3400,
+            "change_display": "(137.7%)",
+            "change_percent": 137.7
+          },
+          "profile_views": {
+            "value_display": "26",
+            "value": 26,
+            "comparison_display": "+6",
+            "comparison": 6,
+            "change_display": "(30.0%)",
+            "change_percent": 30
+          },
+          "likes": {
+            "value_display": "143",
+            "value": 143,
+            "comparison_display": "+84",
+            "comparison": 84,
+            "change_display": "(142.4%)",
+            "change_percent": 142.4
+          },
+          "comments": {
+            "value_display": "14",
+            "value": 14,
+            "comparison_display": "+6",
+            "comparison": 6,
+            "change_display": "(75.0%)",
+            "change_percent": 75
+          },
+          "shares": {
+            "value_display": "8",
+            "value": 8,
+            "comparison_display": "+6",
+            "comparison": 6,
+            "change_display": "(300.0%)",
+            "change_percent": 300
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "1.3K",
+            "value": 1300
+          },
+          "net": {
+            "value_display": "-1",
+            "value": -1,
+            "comparison_display": "-2",
+            "comparison": -2,
+            "change_display": "(-200%)",
+            "change_percent": -200
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7682188536484744470",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682188536484744470",
+          "caption": "Kopfschmerzen, die hinten anfangen und nach vorn ziehen, kommen oft vom Bildschirm, der deinen Kopf stundenlang nach vorn zieht. Zehn Kinn-Rückzüge, 30 Sekunden Druck oben am Nacken und den Bildschirm auf Augenhöhe stellen, das nimmt viel von der Last. Mit Previa Health testest du in rund zwei Minuten am Handy, ob genau das bei dir zutrifft. Speicher dir das für den nächsten Bildschirmtag. #Kopfschmerzen #Nackenschmerzen #Bildschirmarbeit #Homeoffice #PreviaHealth",
+          "duration": "01:03",
+          "created": "9. Sept., 16:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682188411834207510",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682188411834207510",
+          "caption": "Rücken zieht beim Zähneputzen? Das leichte Vorbeugen kommt nicht aus der Hüfte, sondern aus dem unteren Rücken, der zwei Minuten lang den ganzen Oberkörper trägt wie ein Kran seinen Ausleger. Hüftknick üben, einen Fuß erhöht stellen und abends Brücken geben der Hüfte die Arbeit zurück. Mit Previa Health testest du in rund zwei Minuten am Handy, was bei dir wirklich zieht. Speicher dir das fürs nächste Zähneputzen. #Rückenschmerzen #Zähneputzen #Hüftknick #Rückenübungen #PreviaHealth",
+          "duration": "01:02",
+          "created": "9. Sept., 13:15",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682186378276326678",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682186378276326678",
+          "caption": "Wenn du beim Blick ins obere Regal nur den Nacken spürst, ist meistens nicht der Nacken das Problem, sondern ein oberer Rücken, der vom Bildschirm rund geworden ist. Eine Handtuch Rolle, eine bewusste Brustbein Bewegung und eine kurze Dehnung geben die Beweglichkeit zurück. Mit Previa Health testest du in rund zwei Minuten am Handy, was bei dir wirklich blockiert. Speicher dir das fürs nächste Regal. #Nackenschmerzen #ObererRücken #Beweglichkeit #Büroalltag #PreviaHealth",
+          "duration": "00:51",
+          "created": "9. Sept., 11:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682186255756528918",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682186255756528918",
+          "caption": "Deine Fußspitzen zeigen nach außen? Das liegt oft nicht am Fuß, sondern an der Hüfte, die im Sitzen das Nach innen Drehen verlernt hat. Drei kleine Übungen holen die Drehung zurück. Mit Previa Health testest du in rund zwei Minuten am Handy, wie weit deine Hüfte wirklich noch dreht. Schau jetzt auf deine Füße. Zeigen sie nach außen? Schreib es in die Kommentare. #Entenfüße #Hüftbeweglichkeit #Fußstellung #Gangbild #PreviaHealth",
+          "duration": "00:54",
+          "created": "9. Sept., 09:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682186132594920726",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682186132594920726",
+          "caption": "Acht Stunden am Schreibtisch halten Nacken, Brustkorb, Hüfte und Sprunggelenk gleichzeitig fest, nicht der Reihe nach. Jede Stunde zwei Minuten gehen, den Brustkorb im Sitzen drehen und unter dem Tisch die Wadenpumpe machen, das öffnet wieder alles. Mit Previa Health testest du in rund zwei Minuten am Handy, wo bei dir am meisten hängt. Speicher dir das für den nächsten Bürotag. #Bürojob #Sitzen #Beweglichkeit #Nackenschmerzen #PreviaHealth",
+          "duration": "00:57",
+          "created": "8. Sept., 19:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682185945306778902",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682185945306778902",
+          "caption": "Kribbelt oder taubt dein Bein beim Sitzen ein? Meist drückt ein Gesäßmuskel auf die Leitung, die das Gefühl bis zum Fuß bringt, und der Fluss wird knapp. Alle 30 Minuten aufstehen, im Sitzen den Knöchel aufs andere Knie legen und vorbeugen, dazu Fuß und Bein bewegen, das gibt wieder Platz. Mit Previa Health testest du in rund zwei Minuten am Handy, welche Seite bei dir betroffen ist. Welche Seite ist es bei dir? #Ischias #Gesäßmuskel #Kribbeln #Sitzen #PreviaHealth",
+          "duration": "00:53",
+          "created": "8. Sept., 16:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682185837500583190",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682185837500583190",
+          "caption": "Kiefer abends müde und schwer? Der Kopf hängt tagsüber ein Stück vor dem Körper, und Kiefer und Nacken halten ihn unbewusst mit, die Zähne liegen stundenlang locker aufeinander. Zunge an den Gaumen, Kinn zurückschieben und abends die Brust öffnen geben ihm die Entlastung zurück. Mit Previa Health testest du in rund zwei Minuten am Handy, wie weit dein Kopf wirklich vorn hängt. Speicher dir das für den nächsten Bildschirmtag. #Kieferverspannung #Nackenschmerzen #Bildschirmzeit #Haltung #PreviaHealth",
+          "duration": "00:50",
+          "created": "8. Sept., 13:15",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682185708571741462",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682185708571741462",
+          "caption": "Zwanzig Minuten Bummeln tun deinem Rücken manchmal mehr weh als eine ganze Wanderung. Im Stop-and-go bleibt die Hüfte halb gebeugt, dein unterer Rücken hält den Oberkörper die ganze Zeit allein aufrecht. Zügige Schritte zwischendurch, Gewicht verlagern beim Schaufensterbummel und abends Halbknien geben der Hüfte ihre Bewegung zurück. Mit Previa Health testest du in rund zwei Minuten am Handy, was bei dir wirklich steckt. Speicher dir das für den nächsten Bummel. #Rückenschmerzen #Hüftbeuger #Spazierengehen #Alltagsbewegung #PreviaHealth",
+          "duration": "00:59",
+          "created": "8. Sept., 11:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682185593954176279",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7682185593954176279",
+          "caption": "Jacke anziehen und die Schulter zwickt beim zweiten Ärmel? Die Drehung nach hinten fehlt, weil die Schulter tagsüber am Schreibtisch oder Lenkrad nach vorn hängt und die Vorderseite kurz wird. Türrahmen-Dehnung, Ellbogen nach vorn schieben und Schulterblatt-Kreise geben ihr die Weite zurück. Mit Previa Health testest du in rund zwei Minuten am Handy, welche Schulter wirklich klemmt. Speicher dir das für die nächste Jacke. #Schulterschmerzen #Schulterbeweglichkeit #Büroalltag #Verspannung #PreviaHealth",
+          "duration": "00:56",
+          "created": "8. Sept., 09:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        }
+      ]
+    }
+  }
+}

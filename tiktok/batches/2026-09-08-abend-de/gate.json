@@ -1,0 +1,20 @@
+{
+ "2026-09-09-de-01-jonas-bauchschlaf-f1": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, keine 8 Frames ohne ihn",
+  "leer": 0.43,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-02-jonas-fahrrad-f1": {
+  "pass": true,
+  "grund": "Charakter durchgehend praesent, auch in Nahaufnahmen",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-09-de-03-jonas-stehpult-f1": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, keine Strichfigur oder Leerlauf",
+  "leer": 0.52,
+  "quelle": "urteil"
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "previa-motion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "lint": "tsc"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.438",
+    "@remotion/google-fonts": "4.0.438",
+    "@remotion/shapes": "4.0.438",
+    "@remotion/tailwind-v4": "4.0.438",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.438"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "typescript": "5.8.2"
+  }
+}

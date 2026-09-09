@@ -1,0 +1,74 @@
+{
+ "2026-09-08-de-01-morgens-groesser": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, auch als kleine liegende Figur in Reihe 5-6",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-02-muskelkater-zwei-tage": {
+  "pass": true,
+  "grund": "Charakter in jeder Reihe präsent, Vergleichsfigur nur klein daneben",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-03-sehnen-federn": {
+  "pass": true,
+  "grund": "Nur 2 Frames mit Fuß-Nahaufnahme in Reihe 4, sonst durchgehend Charakter",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-04-dehnen-gehirn": {
+  "pass": true,
+  "grund": "Charakter in allen acht Kapiteln durchgehend präsent",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-05-po-vergisst": {
+  "pass": true,
+  "grund": "Charakter auch unter rotem Spiralen-Overlay in Reihe 3 erkennbar",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-06-schmerz-alarm": {
+  "pass": true,
+  "grund": "Charakter in jeder nummerierten Szene und am Schluss präsent",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-07-knochen-konto": {
+  "pass": true,
+  "grund": "Nur 4 Frames ohne Charakter (Rohrdetail), dann wieder Figur sichtbar",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-08-drei-tage-bett": {
+  "pass": true,
+  "grund": "Nur kurze Icon-Einblendungen, Figur sonst durchgehend präsent",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-09-gang-verraet-alter": {
+  "pass": false,
+  "grund": "Reihe 1: gesamtes Video nur Balken/Bein-Diagramme, Sollcharakter fehlt komplett",
+  "leer": 0.8,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-10-schmerz-falscher-ort": {
+  "pass": false,
+  "grund": "Reihe 1: durchgehend nur Punkt-Linien-Gelenkdiagramme, kein Sollcharakter im Video",
+  "leer": 1.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-11-koerper-streckt-sich": {
+  "pass": true,
+  "grund": "Sollcharakter in praktisch jedem Frame durchgehend sichtbar",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-08-de-12-faszie-folie": {
+  "pass": true,
+  "grund": "Charakter durchgehend präsent, nur 2 Frames Knie-Nahaufnahme, kein 8er-Block ohne ihn",
+  "leer": 0.0,
+  "quelle": "urteil"
+ }
+}

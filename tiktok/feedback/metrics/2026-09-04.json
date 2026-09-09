@@ -1,0 +1,309 @@
+{
+  "collected_at": "2026-09-04T13:51:33+02:00",
+  "accounts": {
+    "previahealth": {
+      "port": 9222,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "8.1K",
+            "value": 8100,
+            "comparison_display": "+7.2K",
+            "comparison": 7200,
+            "change_display": "(749.6%)",
+            "change_percent": 749.6
+          },
+          "profile_views": {
+            "value_display": "26",
+            "value": 26,
+            "comparison_display": "+21",
+            "comparison": 21,
+            "change_display": "(420.0%)",
+            "change_percent": 420
+          },
+          "likes": {
+            "value_display": "225",
+            "value": 225,
+            "comparison_display": "+181",
+            "comparison": 181,
+            "change_display": "(411.4%)",
+            "change_percent": 411.4
+          },
+          "comments": {
+            "value_display": "18",
+            "value": 18,
+            "comparison_display": "+17",
+            "comparison": 17,
+            "change_display": "(1,700.0%)",
+            "change_percent": 1.7
+          },
+          "shares": {
+            "value_display": "9",
+            "value": 9,
+            "comparison_display": "+9",
+            "comparison": 9,
+            "change_display": "(--)",
+            "change_percent": null
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "105",
+            "value": 105
+          },
+          "net": {
+            "value_display": "1",
+            "value": 1,
+            "comparison_display": "+2",
+            "comparison": 2,
+            "change_display": "(-200%)",
+            "change_percent": -200
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7618687139789720854",
+          "url": "https://www.tiktok.com/@previahealth/video/7618687139789720854",
+          "caption": "You've never taken a real full breath. Not because something is wrong with your lungs — but because your body physically won't let you. When your upper back is stiff and your shoulders are rounded, your ribcage can't fully expand. So your body defaults to shallow chest breathing. That keeps your nervous system in a low-level stress state all day. The fix isn't breathing exercises. It's unlocking the ribcage first. Once the cage opens, everything changes — sleep, stress, energy, recovery. #breathing #mobility #posture #stressrelief",
+          "duration": "02:54",
+          "created": "19. März, 16:10",
+          "pinned": true,
+          "views": "327",
+          "likes": "16",
+          "comments": "2"
+        },
+        {
+          "video_id": "7615259892852509974",
+          "url": "https://www.tiktok.com/@previahealth/video/7615259892852509974",
+          "caption": "The Posture lie, find out with the link in bio! #backpain #posture #deskjob",
+          "duration": "01:37",
+          "created": "9. März, 20:45",
+          "pinned": true,
+          "views": "442",
+          "likes": "30",
+          "comments": "0"
+        },
+        {
+          "video_id": "7615745215311334678",
+          "url": "https://www.tiktok.com/@previahealth/video/7615745215311334678",
+          "caption": "Your body literally adapts to that shape. Find out exactly where your mobility is blocked before it turns into real pain. Take the 5-min AI movement test from your phone (it's free). Link in bio to get your score✨ #mobility #deskjob #morningroutine #posture #backpain",
+          "duration": "",
+          "created": "10. März, 22:41",
+          "pinned": true,
+          "views": "279",
+          "likes": "69",
+          "comments": "6"
+        },
+        {
+          "video_id": "7681006783279664407",
+          "url": "https://www.tiktok.com/@previahealth/video/7681006783279664407",
+          "caption": "A desk day does more than make you stiff. It can make ordinary movement feel less automatic because your body has spent hours using the same tiny range of positions. A few slow weight shifts, turns, and a real walk can give that system more to work with. Keep this for the next day you feel clumsy for no obvious reason. #balancepractice #proprioception #movementquality #deskbody #mobilityroutine",
+          "duration": "01:10",
+          "created": "2. Sept., 20:29",
+          "pinned": false,
+          "views": "838",
+          "likes": "18",
+          "comments": "0"
+        },
+        {
+          "video_id": "7681006535132122370",
+          "url": "https://www.tiktok.com/@previahealth/video/7681006535132122370",
+          "caption": "If a stretch feels amazing for ten minutes and then the same muscle locks up again, more stretching may not be the missing piece. Sometimes a tight area is doing extra work to keep you steady. Give it a little movement and control first, then see what changes. Save this for the next time you reach for the foam roller. #mobilitytraining #movementhealth #tightmuscles #posturehabits #bodyawareness",
+          "duration": "01:09",
+          "created": "2. Sept., 20:28",
+          "pinned": false,
+          "views": "821",
+          "likes": "15",
+          "comments": "1"
+        },
+        {
+          "video_id": "7680882948995894550",
+          "url": "https://www.tiktok.com/@previahealth/video/7680882948995894550",
+          "caption": "Feeling wired, tight, and strangely tired after a screen-heavy day is not always about workload. Many people pause or shrink their breathing when they focus, then carry that tension into the neck, jaw, and shoulders. Notice the next transition between tasks and let one exhale slow down. Save this for the next busy afternoon #deskjob #posture",
+          "duration": "01:10",
+          "created": "2. Sept., 12:29",
+          "pinned": false,
+          "views": "282",
+          "likes": "17",
+          "comments": "1"
+        },
+        {
+          "video_id": "7680638240814042390",
+          "url": "https://www.tiktok.com/@previahealth/video/7680638240814042390",
+          "caption": "That expensive chair may feel better, but it cannot replace the movement your body misses during a long screen day. If you keep shifting, your shoulders keep creeping up, or standing feels worse than sitting, the answer may be fewer adjustments and more position changes. Save this for your next workday. #deskbody #officeergonomics #movementbreak #upperbackmobility #previahealth",
+          "duration": "01:55",
+          "created": "1. Sept., 20:39",
+          "pinned": false,
+          "views": "737",
+          "likes": "25",
+          "comments": "3"
+        },
+        {
+          "video_id": "7680271022821543190",
+          "url": "https://www.tiktok.com/@previahealth/video/7680271022821543190",
+          "caption": "Dinner prep can tire your shoulders without a single heavy lift. Chopping, stirring, reaching, and looking down all keep your arms and upper back doing quiet work for longer than you notice. A few small movement breaks can change how that evening feels. Keep this one in mind the next time you are rubbing your shoulders before the food is even on the table. #shouldertension #everydaymovement #upperbackcare #mobilitytips #bodyawareness",
+          "duration": "01:37",
+          "created": "31. Aug., 20:54",
+          "pinned": false,
+          "views": "274",
+          "likes": "3",
+          "comments": "0"
+        }
+      ]
+    },
+    "previahealth_de": {
+      "port": 9223,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "5.4K",
+            "value": 5400,
+            "comparison_display": "+1.4K",
+            "comparison": 1400,
+            "change_display": "(36.7%)",
+            "change_percent": 36.7
+          },
+          "profile_views": {
+            "value_display": "30",
+            "value": 30,
+            "comparison_display": "+5",
+            "comparison": 5,
+            "change_display": "(20.0%)",
+            "change_percent": 20
+          },
+          "likes": {
+            "value_display": "144",
+            "value": 144,
+            "comparison_display": "+65",
+            "comparison": 65,
+            "change_display": "(82.3%)",
+            "change_percent": 82.3
+          },
+          "comments": {
+            "value_display": "14",
+            "value": 14,
+            "comparison_display": "+7",
+            "comparison": 7,
+            "change_display": "(100.0%)",
+            "change_percent": 100
+          },
+          "shares": {
+            "value_display": "7",
+            "value": 7,
+            "comparison_display": "+4",
+            "comparison": 4,
+            "change_display": "(133.3%)",
+            "change_percent": 133.3
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "1.3K",
+            "value": 1300
+          },
+          "net": {
+            "value_display": "0",
+            "value": 0,
+            "comparison_display": "-1",
+            "comparison": -1,
+            "change_display": "(-100%)",
+            "change_percent": -100
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7619669714901519638",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7619669714901519638",
+          "caption": "Die Schlaf-Industrie will nicht dass du das weißt. Dein Problem ist nicht die Matratze. Es ist die Position in der dein Körper den ganzen Tag feststeckt. Deine Faszien formen sich über Nacht um die Haltung die du 16 Stunden am Tag hältst. Deswegen wachst du steif auf — nicht weil du alt wirst, sondern weil dein Körper im Sitzen erstarrt ist. Zwei Minuten vor dem Schlafen ändern alles. Kein Produkt, kein Abo, kein Kissen für 300 Euro. #schlaf #haltung #rückenschmerzen #gesundheit #stressabbau",
+          "duration": "02:59",
+          "created": "21. März, 16:00",
+          "pinned": true,
+          "views": "27K",
+          "likes": "713",
+          "comments": "9"
+        },
+        {
+          "video_id": "7618361731567439126",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7618361731567439126",
+          "caption": "Wusstest du das in den meisten Fällen deine untere Rückenschmerzen garnicht vom Rücken selber kommen? Probiere den 5Minütitgen Selbsttest aus um deine Schwachstellen aufzudecken. #rückenschmerzen #schmerzen #mobilität #büro",
+          "duration": "02:24",
+          "created": "18. März, 17:10",
+          "pinned": true,
+          "views": "10K",
+          "likes": "209",
+          "comments": "36"
+        },
+        {
+          "video_id": "7618690115623275798",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7618690115623275798",
+          "caption": "Du hast noch nie einen wirklich vollen Atemzug genommen. Nicht weil mit deiner Lunge etwas nicht stimmt — sondern weil dein Körper es physisch nicht zulässt. Wenn dein oberer Rücken steif ist und deine Schultern nach vorne hängen, kann sich dein Brustkorb nicht vollständig ausdehnen. Dein Körper schaltet auf flache Brustatmung um. Das hält dein Nervensystem den ganzen Tag in einem unterschwelligen Stresszustand. Die Lösung sind keine Atemübungen. Zuerst muss der Brustkorb frei werden. Danach ändert sich alles — Schlaf, Stress, Energie, Regeneration. #atmung #haltung #stressabbau #rückenschmerzen",
+          "duration": "02:38",
+          "created": "18. März, 21:10",
+          "pinned": true,
+          "views": "53K",
+          "likes": "1,281",
+          "comments": "62"
+        },
+        {
+          "video_id": "7681272185679285526",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7681272185679285526",
+          "caption": "Ein verspannter unterer Rücken ist oft der Lauteste im Raum, aber nicht immer der Auslöser. Wenn Brustkorb, Hüften oder Sprunggelenke bei Drehen, Sitzen und Gehen wenig beitragen, muss der Rücken viele kleine Anpassungen übernehmen. Die drei ruhigen Checks helfen dir, genauer hinzusehen statt immer dieselbe Stelle zu dehnen. Folge für die nächsten alltagstauglichen Movement Checks und speichere dieses Video, wenn dein Rücken abends wieder zuerst meckert. #Rückenschmerzen #Bewegungsanalyse #Mobility #Körperwissen #PreviaHealth",
+          "duration": "01:07",
+          "created": "3. Sept., 13:39",
+          "pinned": false,
+          "views": "259",
+          "likes": "4",
+          "comments": "4"
+        },
+        {
+          "video_id": "7681272028732607766",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7681272028732607766",
+          "caption": "Wenn Aufstehen vom Stuhl sich morgens oder nach langem Sitzen überraschend schwer anfühlt, ist das nicht einfach ein Rückenproblem. Beim Hochkommen müssen Sprunggelenke, Hüften und Beine zusammenarbeiten. Fehlt einer Stelle Bewegung, übernimmt der Rücken oft mehr als nötig. Speichere dir die drei kleinen Tests für später und schick das Video jemandem, der nach jeder Autofahrt erst einmal in Gang kommen muss. #Rückenschmerzen #Beweglichkeit #GesunderRücken #MovementHealth #PreviaHealth",
+          "duration": "01:22",
+          "created": "3. Sept., 13:38",
+          "pinned": false,
+          "views": "272",
+          "likes": "5",
+          "comments": "1"
+        },
+        {
+          "video_id": "7680914191091240214",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7680914191091240214",
+          "caption": "Diese Schwere, die dich jeden Nachmittag gegen drei überkommt. Deine Augen werden schwer, der Bildschirm verschwimmt, und du greifst nach dem zweiten oder dritten Kaffee. Du schiebst es auf das Mittagessen. Du schiebst es auf schlechten Schlaf. Aber dein Körper hat schon um neun Uhr morgens begonnen, diesen Einbruch vorzubereiten – und fast niemand hat erklärt, wie das funktioniert. Hier ist, was tatsächlich passiert: Wenn du dich frisch hinsetzt, sitzt du aufrecht. Aber Haltung ist keine Position, sondern Arbeit – und nach ein paar Stunden gibt dein Körper stillschweigend auf. Du sackst in eine krumme Haltung zusammen, der Brustkorb sinkt in Richtung Hüfte, und der Raum, in dem deine Lungen arbeiten, wird kleiner. Deine Atmung verlagert sich in den Brustkorb, schnell und flach. Das Zwerchfell, der große Muskel, der jeden Atemzug antreiben sollte, bewegt sich kaum noch. Stunde für Stunde nimmt die Luftmenge pro Atemzug ab. Dein Körper läuft im Sparmodus und stellt dir um drei Uhr die Rechnung. Du kannst beobachten, wie du dagegen ankämpfst. Dieser tiefe Seufzer, bei dem du dich ertappst – das ist dein Körper, der einen einzigen richtigen Atemzug erzwingt. Der dritte Kaffee, der irgendwie nichts bewirkt. Aufstehen, um Wasser zu holen, und sich plötzlich zwei Minuten lang klarer fühlen. Nachmittagsbesprechungen, die sich doppelt so anstrengend anfühlen wie die am Morgen. Nichts davon ist Zufall. Es ist alles derselbe Mechanismus. Die Lösung ist nicht mehr Koffein, sondern die Maschine wieder in Gang zu bringen. Steh alle fünfundvierzig Minuten auf, strecke beide Arme über den Kopf und atme dreimal langsam ein, sodass sich dein Bauch ausbeult – zwanzig Sekunden, das ist alles. Nach dem Mittagessen einen zweiminütigen Spaziergang statt zu scrollen. Beobachte kleine Kinder: Sie sitzen nie still, sie zappeln und klettern und bringen sich ständig wieder in Schwung.",
+          "duration": "01:08",
+          "created": "2. Sept., 14:30",
+          "pinned": false,
+          "views": "268",
+          "likes": "12",
+          "comments": "0"
+        },
+        {
+          "video_id": "7680868458879405334",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7680868458879405334",
+          "caption": "Diese Faszienrolle kann sich gut anfühlen. Sie löst aber nicht automatisch das Muster, das dich nach einer Stunde am Laptop wieder in dieselbe Spannung zieht. Wenn Brustkorb und oberer Rücken kaum mitbewegen, arbeitet eine kleine Stelle oft für den ganzen Oberkörper. Speichere dir den 90-Sekunden-Reset für den nächsten Schreibtischabend. #physiotherapie #beweglichkeit #rückenschmerzen",
+          "duration": "01:13",
+          "created": "2. Sept., 11:32",
+          "pinned": false,
+          "views": "274",
+          "likes": "4",
+          "comments": "1"
+        },
+        {
+          "video_id": "7680518184016989443",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7680518184016989443",
+          "caption": "Deine Fersen heben beim Hocken nicht automatisch wegen des Alters ab. Dein Alltag verlangt deinen Sprunggelenken kaum noch diese Bewegung. Genau deshalb fühlt sich die tiefe Hocke so fremd an, obwohl du sie als Kind ständig genutzt hast. Fang klein an und mach aus der Hocke wieder eine vertraute Position. Merk dir den Ablauf für später.",
+          "duration": "02:44",
+          "created": "1. Sept., 19:25",
+          "pinned": false,
+          "views": "220",
+          "likes": "9",
+          "comments": "0"
+        }
+      ]
+    }
+  }
+}

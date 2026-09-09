@@ -1,0 +1,62 @@
+{
+ "01-unterer-ruecken": {
+  "frag": "Your lower back hurts and",
+  "hook": "Du hast Schmerzen im unteren Rücken und weißt nicht, woran es liegt? Dann hör mir jetzt ganz genau zu, ich kläre das jetzt auf.",
+  "status": "OK 1:18 -> 2026-09-05-de-01-unterer-ruecken.mp4"
+ },
+ "02-ruecken-beim-stehen": {
+  "frag": "Back pain when you stand",
+  "hook": "Rückenschmerzen beim langen Stehen? Es ist nicht das, was du denkst, und nicht das, was dir immer gesagt wird. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:11 -> 2026-09-05-de-02-ruecken-beim-stehen.mp4"
+ },
+ "03-nacken-knacken": {
+  "frag": "Your neck cracks when you",
+  "hook": "Dein Nacken knackt bei jeder Drehung? Was das wirklich ist, hat dir noch niemand gesagt. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:05 -> 2026-09-05-de-03-nacken-knacken.mp4"
+ },
+ "04-hocke": {
+  "frag": "A toddler can still squat",
+  "hook": "Kannst du noch in die tiefe Hocke? Nicht das Alter, Stühle und Schuhe haben es dir genommen. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:09 -> 2026-09-05-de-04-hocke.mp4"
+ },
+ "05-ischias-kribbeln": {
+  "frag": "One leg tingles or goes",
+  "hook": "Wenn dir beim Sitzen ein Bein kribbelt oder taub wird, speichere dir dieses Video. Gleich zeige ich dir die drei Stellen, die wirklich helfen. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:09 -> 2026-09-05-de-05-ischias-kribbeln.mp4"
+ },
+ "06-atmung-recycle": {
+  "frag": "You have been breathing wrong",
+  "hook": "Dein Brustkorb bewegt sich seit Jahren nur noch oben, und das hat dir nie jemand gezeigt. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:07 -> 2026-09-05-de-06-atmung-recycle.mp4"
+ },
+ "07-huefte-auto": {
+  "frag": "Your hip forgets how long",
+  "hook": "Wenn deine Hüfte beim Aussteigen aus dem Auto klemmt, speicher dir dieses Video. Gleich zeige ich dir die drei Dinge, die sie sofort wieder lockern. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "GEN FEHLER"
+ },
+ "08-knie-treppe": {
+  "frag": "Your knees on the stairs",
+  "hook": "Das wurde dir über deine Knieschmerzen auf der Treppe nie erklärt. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "GEN FEHLER"
+ },
+ "09-schultern-ohren": {
+  "frag": "Your shoulders climb up to",
+  "hook": "Wenn deine Schultern abends an den Ohren hängen, speicher dir dieses Video. Gleich zeige ich dir die drei Dinge, die sie sofort wieder runterholen. Du wusstest das nicht? Dann hör mir jetzt ganz genau zu, ich kläre das jetzt auf.",
+  "status": "OK 1:09 -> 2026-09-05-de-09-schultern-ohren.mp4"
+ },
+ "10-sofa-abend": {
+  "frag": "Your soft sofa is making",
+  "hook": "Dein Sofa macht dich abends steifer, nicht lockerer, und das hat dir die Möbelindustrie nie gesagt. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 0:55 -> 2026-09-05-de-10-sofa-abend.mp4"
+ },
+ "11-acht-stunden-sitzen": {
+  "frag": "What eight hours of sitting",
+  "hook": "Wenn du acht Stunden am Schreibtisch sitzt, speichere dir dieses Video, gleich zeige ich dir, was das mit deinem Körper macht, von oben bis unten. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:03 -> 2026-09-05-de-11-acht-stunden-sitzen.mp4"
+ },
+ "12-kopfschmerz-nacken": {
+  "frag": "A headache that starts at",
+  "hook": "Kopfschmerzen, die am Hinterkopf anfangen und nach vorn ziehen, das wurde dir nie erklärt. Du wusstest das nicht? Dann hör jetzt ganz genau zu.",
+  "status": "OK 1:08 -> 2026-09-05-de-12-kopfschmerz-nacken.mp4"
+ }
+}

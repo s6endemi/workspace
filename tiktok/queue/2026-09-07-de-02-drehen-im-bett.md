@@ -1,0 +1,28 @@
+# Warum Umdrehen im Bett Arbeit sein kann
+
+- Format: C-reclaim
+- Goal: `audience-growth`
+- Hook: `save-help-delay` — „Wenn sich Umdrehen im Bett anfühlt, als wäre dein Oberkörper aus Holz, speichere dir dieses Video. Gleich zeige ich dir die drei Bewegungen, die du zuerst testen solltest."
+- Experiment: `hook-save-delay-v1` Variante; keine zweite Testvariable
+- Quelle: `scripts/2026-09-07-de-02-drehen-im-bett-source.txt`
+
+## Caption
+
+Wenn du dich nachts mit dem ganzen Körper drehen musst oder beim Schulterblick im Auto hängen bleibst, fehlt dir nicht automatisch Kraft. Oft bekommt dein Oberkörper im Alltag einfach kaum noch Rotation. Diese drei Positionen sind ein guter Start. Folge Previa Health für die nächste Folge mit Körpersignalen, die im Alltag leicht untergehen.
+
+#Brustwirbelsäule #Rumpfmobilität #Beweglichkeit #Schlafposition #PreviaHealth
+
+## NotebookLM-Quellskript
+
+Why Turning In Bed Can Feel Like Work
+
+Opening spoken line in German: "Wenn sich Umdrehen im Bett anfühlt, als wäre dein Oberkörper aus Holz, speichere dir dieses Video. Gleich zeige ich dir die drei Bewegungen, die du zuerst testen solltest."
+Immediately follow in German with: "Du wusstest das nicht? Dann hör jetzt ganz genau zu."
+
+This is a TikTok for people who wake while turning in bed, twist their body to reverse a car, or reach for the back seat and feel their torso stop. Keep the reason open for one or two seconds. The story is not that they are getting old. A modern day of chairs, car seats, and screens asks the upper body to hold still, then expects it to rotate at night.
+
+Use a clear reclaim story. The man sits in a car and tries to look behind him, then stands beside a door with three rusty hinges. One stiff hinge forces the whole door frame to move. His hips and lower back start doing work that the middle of his torso has stopped sharing. Do not make a diagnosis or claim a cure. Frame the movements as a quick check-in and a way to give rotation some practice again.
+
+Around 20 seconds, show the man holding a phone with "Previa Health" on the screen. Highlight his ribs, upper back, and hips. Say Previa Health can show where his movement is getting stuck.
+
+Give three specific reclaim steps. First, lie on one side with knees bent, stack both hands in front, then open the top arm across the floor behind him for six slow turns per side. Second, kneel on hands and knees, put one hand behind the head, and rotate that elbow toward the ceiling six times per side. Then say: "Folge Previa Health, damit du das nächste Körpersignal nicht verpasst." Third, sit tall on the front edge of a chair, keep both feet planted, and turn the chest right and left for five slow breaths. Finish: "Mit Previa Health kannst du das in rund zwei Minuten am Handy selbst testen, kostenlos, ohne App."

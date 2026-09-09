@@ -1,0 +1,115 @@
+
+## Batch 2026-09-06-en — 2026-09-06 22:13 — 18 Items, Sprache Englisch, parallel 3
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/c66866dc-9356-403e-8ad0-256eebb2ffc6
+- 01-neck-cracks: Quelle ok
+- 02-hip-after-driving: Quelle ok
+- 03-shoulders-up-to-ears: Quelle ok
+- 04-soft-sofa: Quelle ok
+- 05-back-when-standing: Quelle ok
+- 06-breathing-wrong: Quelle ok
+- 07-heel-first-steps: Quelle ok
+- 08-floor-to-stand: Quelle ok
+- 09-hands-numb-at-night: Quelle ok
+- 10-hip-side-sleeping: Quelle ok
+- 11-bag-on-one-shoulder: Quelle ok
+- 12-jacket-shoulder: Quelle ok
+- 13-slow-strolling-back: Quelle ok
+- 14-tired-jaw: Quelle ok
+- 15-leg-tingles-sitting: Quelle ok
+- 16-eight-hours-desk: Quelle ok
+- 17-feet-point-out: Quelle ok
+- 18-looking-up-neck: Quelle ok
+- 01-neck-cracks: Generierung gestartet (22:19)
+- 02-hip-after-driving: Generierung gestartet (22:19)
+- 03-shoulders-up-to-ears: Generierung gestartet (22:20)
+- Welle fertig nach 9 min: 3 neue Artefakte fuer 3 Starts
+- 02-hip-after-driving: OK 1:06 8998 KB -> 2026-09-06-en-02-hip-after-driving.mp4
+- 03-shoulders-up-to-ears: OK 1:11 8706 KB -> 2026-09-06-en-03-shoulders-up-to-ears.mp4
+- 01-neck-cracks: OK 0:56 6130 KB -> 2026-09-06-en-01-neck-cracks.mp4
+- 04-soft-sofa: Generierung gestartet (22:30)
+- 05-back-when-standing: Generierung gestartet (22:31)
+- 06-breathing-wrong: Generierung gestartet (22:31)
+- Welle fertig nach 13 min: 3 neue Artefakte fuer 3 Starts
+- 04-soft-sofa: OK 1:19 10724 KB -> 2026-09-06-en-04-soft-sofa.mp4
+- 05-back-when-standing: OK 1:10 9567 KB -> 2026-09-06-en-05-back-when-standing.mp4
+- 06-breathing-wrong: OK 0:54 6512 KB -> 2026-09-06-en-06-breathing-wrong.mp4
+- 07-heel-first-steps: Generierung gestartet (22:45)
+- 08-floor-to-stand: Generierung gestartet (22:46)
+- 09-hands-numb-at-night: Generierung gestartet (22:46)
+
+## Einsammeln 2026-09-06-en — 2026-09-06 23:08
+- offen: 12 Items | Artefakte im Notebook: 9 | wird erstellt: False
+- 07-heel-first-steps: OK 1:16 <- „Why Your Heel Hurts in the Morning" -> 2026-09-06-en-07-heel-first-steps.mp4 (10386 KB)
+- 08-floor-to-stand: OK 1:04 <- „How The Floor Test Reveals Your Movement Age" -> 2026-09-06-en-08-floor-to-stand.mp4 (7000 KB)
+- 09-hands-numb-at-night: OK 0:59 <- „Why Your Hands Go Numb At Night" -> 2026-09-06-en-09-hands-numb-at-night.mp4 (6992 KB)
+- 10-hip-side-sleeping: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 11-bag-on-one-shoulder: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 12-jacket-shoulder: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 13-slow-strolling-back: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 14-tired-jaw: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 15-leg-tingles-sitting: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 16-eight-hours-desk: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 17-feet-point-out: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+- 18-looking-up-neck: noch kein Artefakt (Generierung nie gestartet oder noch nicht fertig)
+
+## Batch 2026-09-06-en — 2026-09-06 23:10 — 18 Items, Sprache Englisch, parallel 3 (resume)
+- open_notebook: rc=0 Notebook-Tab bereit: https://notebook.google.com/notebook/c66866dc-9356-403e-8ad0-256eebb2ffc6
+- 01-neck-cracks: fertig, uebersprungen
+- 02-hip-after-driving: fertig, uebersprungen
+- 03-shoulders-up-to-ears: fertig, uebersprungen
+- 04-soft-sofa: fertig, uebersprungen
+- 05-back-when-standing: fertig, uebersprungen
+- 06-breathing-wrong: fertig, uebersprungen
+- 07-heel-first-steps: fertig, uebersprungen
+- 08-floor-to-stand: fertig, uebersprungen
+- 09-hands-numb-at-night: fertig, uebersprungen
+- 10-hip-side-sleeping: Quelle schon im Notebook (Status vorher: quelle ok)
+- 11-bag-on-one-shoulder: Quelle schon im Notebook (Status vorher: quelle ok)
+- 12-jacket-shoulder: Quelle schon im Notebook (Status vorher: quelle ok)
+- 13-slow-strolling-back: Quelle schon im Notebook (Status vorher: quelle ok)
+- 14-tired-jaw: Quelle schon im Notebook (Status vorher: quelle ok)
+- 15-leg-tingles-sitting: Quelle schon im Notebook (Status vorher: quelle ok)
+- 16-eight-hours-desk: Quelle schon im Notebook (Status vorher: quelle ok)
+- 17-feet-point-out: Quelle schon im Notebook (Status vorher: quelle ok)
+- 18-looking-up-neck: Quelle schon im Notebook (Status vorher: quelle ok)
+- 10-hip-side-sleeping: Generierung gestartet (23:10)
+- 11-bag-on-one-shoulder: Generierung gestartet (23:11)
+- 12-jacket-shoulder: Generierung gestartet (23:11)
+- Welle fertig nach 19 min: 3 neue Artefakte fuer 3 Starts
+- 11-bag-on-one-shoulder: OK 1:04 7395 KB -> 2026-09-06-en-11-bag-on-one-shoulder.mp4
+- 10-hip-side-sleeping: OK 1:00 8309 KB -> 2026-09-06-en-10-hip-side-sleeping.mp4
+- 12-jacket-shoulder: OK 0:57 7220 KB -> 2026-09-06-en-12-jacket-shoulder.mp4
+- 13-slow-strolling-back: Generierung gestartet (23:31)
+- 14-tired-jaw: Generierung gestartet (23:32)
+- 15-leg-tingles-sitting: Generierung gestartet (23:32)
+- Welle fertig nach 17 min: 3 neue Artefakte fuer 3 Starts
+- 15-leg-tingles-sitting: OK 1:13 9933 KB -> 2026-09-06-en-15-leg-tingles-sitting.mp4
+- 13-slow-strolling-back: OK 1:08 8287 KB -> 2026-09-06-en-13-slow-strolling-back.mp4
+- 14-tired-jaw: OK 1:09 9045 KB -> 2026-09-06-en-14-tired-jaw.mp4
+- 16-eight-hours-desk: Generierung gestartet (23:50)
+- 17-feet-point-out: Generierung gestartet (23:51)
+- 18-looking-up-neck: Generierung gestartet (23:51)
+- Welle fertig nach 10 min: 3 neue Artefakte fuer 3 Starts
+- 18-looking-up-neck: OK 1:01 8355 KB -> 2026-09-06-en-18-looking-up-neck.mp4
+- 16-eight-hours-desk: OK 1:05 8001 KB -> 2026-09-06-en-16-eight-hours-desk.mp4
+- 17-feet-point-out: OK 0:58 7026 KB -> 2026-09-06-en-17-feet-point-out.mp4
+
+### Ergebnis
+- 01-neck-cracks: OK 0:56 -> 2026-09-06-en-01-neck-cracks.mp4
+- 02-hip-after-driving: OK 1:06 -> 2026-09-06-en-02-hip-after-driving.mp4
+- 03-shoulders-up-to-ears: OK 1:11 -> 2026-09-06-en-03-shoulders-up-to-ears.mp4
+- 04-soft-sofa: OK 1:19 -> 2026-09-06-en-04-soft-sofa.mp4
+- 05-back-when-standing: OK 1:10 -> 2026-09-06-en-05-back-when-standing.mp4
+- 06-breathing-wrong: OK 0:54 -> 2026-09-06-en-06-breathing-wrong.mp4
+- 07-heel-first-steps: OK (vorhanden)
+- 08-floor-to-stand: OK (vorhanden)
+- 09-hands-numb-at-night: OK (vorhanden)
+- 10-hip-side-sleeping: OK 1:00 -> 2026-09-06-en-10-hip-side-sleeping.mp4
+- 11-bag-on-one-shoulder: OK 1:04 -> 2026-09-06-en-11-bag-on-one-shoulder.mp4
+- 12-jacket-shoulder: OK 0:57 -> 2026-09-06-en-12-jacket-shoulder.mp4
+- 13-slow-strolling-back: OK 1:08 -> 2026-09-06-en-13-slow-strolling-back.mp4
+- 14-tired-jaw: OK 1:09 -> 2026-09-06-en-14-tired-jaw.mp4
+- 15-leg-tingles-sitting: OK 1:13 -> 2026-09-06-en-15-leg-tingles-sitting.mp4
+- 16-eight-hours-desk: OK 1:05 -> 2026-09-06-en-16-eight-hours-desk.mp4
+- 17-feet-point-out: OK 0:58 -> 2026-09-06-en-17-feet-point-out.mp4
+- 18-looking-up-neck: OK 1:01 -> 2026-09-06-en-18-looking-up-neck.mp4

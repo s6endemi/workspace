@@ -1,0 +1,26 @@
+# previa-workspace: Wissen, Journal, Briefs, Batches, Ledger. Videos, Browserprofile und Temporaeres bleiben draussen.
+
+# Browserprofile der Agenten-Chromes (Cookies = Logins!)
+browser-profile/
+browser-profile-de/
+
+# Videos, Bilder, Audio (liegen bei TikTok/YouTube bzw. sind Diagnose-Bögen)
+*.mp4
+*.mov
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+
+# Temporaeres und Caches
+tiktok/tmp/
+tiktok/cache/
+tiktok/work/
+video/node_modules/
+video/out/
+**/__pycache__/
+*.log
+*.lock

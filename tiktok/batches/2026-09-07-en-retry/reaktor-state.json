@@ -1,0 +1,15 @@
+{
+ "stages": {
+  "check": "done",
+  "produce": "done",
+  "collect": "done",
+  "trim": "done",
+  "gate": "done",
+  "publish": "done",
+  "report": "done"
+ },
+ "produce_runs": 7,
+ "started": "2026-09-08T22:30:04.979940",
+ "einsammeln_kaputt": true,
+ "publish_rc": 0
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://doi.org/10.1016/j.physio.2025.101850",
+      "title": "Exploring validity of smartphone single-camera markerless motion capture for knee ROM",
+      "accessed": "2026-08-28"
+    },
+    {
+      "id": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40787239",
+      "title": "Comparison of 2D-pose with 3D motion capture methods for assessment of active shoulder range of motion",
+      "accessed": "2026-09-03"
+    }
+  ]
+}

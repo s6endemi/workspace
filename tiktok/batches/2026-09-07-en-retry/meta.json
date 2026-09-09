@@ -1,0 +1,37 @@
+{
+ "02-hip-after-driving": {
+  "frag": "Your hip forgets how long",
+  "hook": "Does your hip lock up the moment you get out of the car? Save this video, in a moment I show you the three things that loosen it again. Stay with me, this is quick.",
+  "status": "OK (vorhanden)"
+ },
+ "04-soft-sofa": {
+  "frag": "Your soft sofa is making",
+  "hook": "Your sofa does not relax you in the evening. It leaves you stiffer than your whole workday did, and the furniture industry will never tell you why.",
+  "status": "OK (vorhanden)"
+ },
+ "05-back-when-standing": {
+  "frag": "Back pain when you stand",
+  "hook": "Your back hurts when you stand for a long time? It is not what you think, and not what you keep being told.",
+  "status": "GEN FEHLER"
+ },
+ "07-heel-first-steps": {
+  "frag": "Why your heel only hurts",
+  "hook": "You were never told why your heel stings on your very first steps in the morning.",
+  "status": "OK (vorhanden)"
+ },
+ "10-hip-side-sleeping": {
+  "frag": "Why Your Hip Hurts When",
+  "hook": "Nobody ever explained why your hip aches when you lie on your side.",
+  "status": "OK (vorhanden)"
+ },
+ "15-leg-tingles-sitting": {
+  "frag": "The Real Reason Your Leg",
+  "hook": "Does your leg tingle or go slightly numb when you sit? Save this video, in a moment I show you the three things that really help. Stay with me, this is quick.",
+  "status": "OK (vorhanden)"
+ },
+ "18-looking-up-neck": {
+  "frag": "Nobody explains why looking up",
+  "hook": "Nobody ever explained why you feel it in your neck, not your back, when you look up at a high shelf.",
+  "status": "OK (vorhanden)"
+ }
+}

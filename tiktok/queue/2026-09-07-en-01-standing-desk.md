@@ -1,0 +1,38 @@
+# Upload package 01 — Your Standing Desk Is Not Solving Your Desk Body
+
+- Date: 2026-09-07
+- Format: A-leak
+- Goal: `reach`
+- Hook family: `concealment-reveal`
+- Exact hook: "Nobody tells you why your back can still ache after you bought a standing desk."
+- Source: `scripts/2026-09-07-en-01-standing-desk-source.txt`
+- Short prompt: `scripts/2026-09-07-en-01-standing-desk-short-prompt.txt`
+- Status: generation was initiated, but no matching NotebookLM Short was available after two collection checks. Do not upload.
+
+## Caption
+
+A standing desk can help you change position, but it cannot move for you. If one leg is always doing the work and your ribs never turn, your lower back can end up carrying the whole evening. Try the three small resets before your next long desk block, then test what is actually holding still with Previa Health.
+
+#StandingDesk #DeskBackPain #Mobility #OfficeBody #PreviaHealth
+
+## Source script
+
+Your Standing Desk Is Not Solving Your Desk Body
+
+Nobody tells you why your back can still ache after you bought a standing desk. You did not know that? Then listen very closely.
+
+The standing-desk industry sold one useful change and left out the important part: standing still for three hours is just sitting with a different view. Your hips stay in the same narrow lane. Your ribcage barely turns. One leg takes your weight while the other one hangs there. Then dinner arrives, you bend to pull a tray from the oven, and your lower back feels like it did the whole shift alone.
+
+Picture one person holding a sofa by themselves while the other end rests on the floor. That is what happens when your hips and ribs stop sharing the load. The back grabs the heavy end because it is the only part still moving.
+
+Previa Health can show you where your body is holding still in a quick phone self-test.
+
+You might recognize the clues: you swap feet every few minutes at your desk. One hip feels jammed when you put on a sock after work. You lean your elbows on the kitchen counter because standing feels oddly tiring. Especially number three catches people who think they have already fixed their desk setup.
+
+First, stand beside your desk with one foot on a low book, then switch sides after 30 seconds. Let the raised hip relax instead of locking both knees. Second, face the desk, place both hands on its edge, step one foot back, and slowly turn your chest toward the front knee five times each side.
+
+Follow Previa Health so you do not miss the next body signal.
+
+Third, walk one lap around the room with deliberately long back steps before you sit down again. With Previa Health you can test this yourself on your phone in about two minutes, free, no app.
+
+A standing desk is not a reset button. Your body still needs to change jobs.

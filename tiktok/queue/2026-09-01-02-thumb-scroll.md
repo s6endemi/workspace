@@ -1,0 +1,28 @@
+# Why your thumb feels stiff after scrolling even when your wrist feels fine
+
+**Thema:** Daumenbelastung beim Scrollen  
+**Format / Experiment:** symptom, PREVIA früh  
+**Video:** `C:\Users\Eren\agents\workspace\tiktok\out\2026-09-01-02-thumb-scroll.mp4`  
+**Quellskript:** `C:\Users\Eren\agents\workspace\tiktok\scripts\2026-09-01-02-thumb-scroll-source.txt`
+
+## TikTok-Caption
+
+Dein Daumen kann nach dem Scrollen steif wirken, obwohl dein Handgelenk sich völlig normal anfühlt. Das passt zusammen: Die Hand hält das Handy, aber der Daumen fährt stundenlang dieselbe kleine Strecke. Leg das Handy kurz ab, mach die Hand auf und wechsel danach die Seite. Heb dir diesen Reset für heute Abend auf.
+
+#Daumenbeweglichkeit #Handyhaltung #Handgesundheit #ScrollRoutine #PREVIA
+
+## English source script
+
+Why your thumb feels stiff after scrolling even when your wrist feels fine
+
+Your thumb feels stiff after a long scroll, but your wrist seems completely fine. That can feel confusing because you think of phone use as a wrist problem. Most of the time, the thumb is doing the actual travel.
+
+Watch a normal scrolling session. Your palm holds the phone still while one thumb repeatedly reaches up, down, across, and back. The rest of your hand barely gets a vote. Add a commute, messages in bed, and a few quick checks between tasks, and that tiny movement can repeat for much longer than you notice.
+
+With PREVIA, you can use a quick movement check to compare how freely each hand and wrist moves. The point is not to label one side as broken. It is to notice whether the hand that scrolls all day is moving differently before the stiffness becomes your normal.
+
+Make the reset almost stupidly small. Put the phone on the table for thirty seconds. Open both hands wide, then gently close them into a loose fist five times. Turn each palm up and down slowly. Pick up the phone with the other hand for the next few minutes, or use an index finger on the desk instead of making the thumb do every swipe.
+
+You do not need to stop using your phone. You just need to stop asking one small joint to be the entire remote control for your day. The useful test is simple: after that half minute, does the thumb move more easily than it did when you were still curled around the phone?
+
+That is a better signal than waiting until a normal scroll feels like work. Try it tonight before the last ten minutes of bed scrolling turn into forty.

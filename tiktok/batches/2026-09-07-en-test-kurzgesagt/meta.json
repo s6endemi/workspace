@@ -1,0 +1,17 @@
+{
+ "01-neck-cracks": {
+  "frag": "Your neck cracks when you",
+  "hook": "Your neck cracks every time you turn your head? Nobody has told you what that really is.",
+  "status": "GEN FEHLER"
+ },
+ "08-floor-to-stand": {
+  "frag": "What Standing Up From The",
+  "hook": "Sit down on the floor, then stand back up without using your hands. Nobody ever explained what that reveals about your body. How many hands did you need? Tell me in the comments.",
+  "status": "OK 1:12 -> 2026-09-07-entest-08-floor-to-stand.mp4"
+ },
+ "16-eight-hours-desk": {
+  "frag": "Why Your Body Feels Stuck",
+  "hook": "If you sit at your desk for eight hours, save this video. In a moment I show you what that actually does to your body. Stay with me, this is quick.",
+  "status": "GEN FEHLER"
+ }
+}

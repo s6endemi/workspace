@@ -1,0 +1,3 @@
+Deutsche Du-Ansprache, TikTok-Retention statt Aufklaervideo, starker symptomnaher Contrast-Hook, PREVIA frueh in Sekunde 15-25 als Selbsttest, konkrete Alltagsszenen, kein klinischer Ton und keine Sie-Form.
+
+Erzaehle dieses Symptom-Video auf Deutsch in ca. 60 bis 90 Sekunden. Erzeuge sofort die Kuechen-Szene mit dem Zug an den Rippen beim Griff ins obere Regal. Die Wendung lautet: Es fuehlt sich nach Schulter an, aber Rippen und Schulterblatt muessen beim Ueberkopfgriff mitarbeiten. Nenne PREVIA zwischen Sekunde 15 und 25 als schnellen Selbsttest fuer Seitenunterschiede beim Armheben. Zeige die sanfte Wandbewegung mit Atmung. Keine Diagnose, kein Heilversprechen, kein pauschales Fehlhaltungs-Framing.

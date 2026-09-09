@@ -1,0 +1,331 @@
+{
+  "collected_at": "2026-09-09T12:00:33+02:00",
+  "accounts": {
+    "previahealth": {
+      "port": 9222,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "7.1K",
+            "value": 7100,
+            "comparison_display": "+969",
+            "comparison": 969,
+            "change_display": "(15.7%)",
+            "change_percent": 15.7
+          },
+          "profile_views": {
+            "value_display": "14",
+            "value": 14,
+            "comparison_display": "-8",
+            "comparison": -8,
+            "change_display": "(-36.4%)",
+            "change_percent": -36.4
+          },
+          "likes": {
+            "value_display": "177",
+            "value": 177,
+            "comparison_display": "-7",
+            "comparison": -7,
+            "change_display": "(-3.8%)",
+            "change_percent": -3.8
+          },
+          "comments": {
+            "value_display": "11",
+            "value": 11,
+            "comparison_display": "-3",
+            "comparison": -3,
+            "change_display": "(-21.4%)",
+            "change_percent": -21.4
+          },
+          "shares": {
+            "value_display": "2",
+            "value": 2,
+            "comparison_display": "-5",
+            "comparison": -5,
+            "change_display": "(-71.4%)",
+            "change_percent": -71.4
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "106",
+            "value": 106
+          },
+          "net": {
+            "value_display": "2",
+            "value": 2,
+            "comparison_display": "+2",
+            "comparison": 2,
+            "change_display": "(--)",
+            "change_percent": null
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7683298077934931222",
+          "url": "https://www.tiktok.com/@previahealth/video/7683298077934931222",
+          "caption": "Leg tingles or goes slightly numb when you sit? Usually a glute muscle is pressing on the line that carries feeling down to your foot, so the flow gets cut short. Standing up every 30 minutes, crossing your ankle over the opposite knee and leaning forward, plus moving your foot and leg, all give it room again. Test it in about two minutes on your phone, free, with Previa Health. Which side is it for you? #sciatica #glutemuscle #tingling #sittingtoolong #PreviaHealth",
+          "duration": "00:54",
+          "created": "10. Sept., 23:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683297952135236886",
+          "url": "https://www.tiktok.com/@previahealth/video/7683297952135236886",
+          "caption": "Hip aching when you sleep on your side? Your top leg drifts forward and your hip is left hanging because the outer hip muscles did nothing all day while you sat. A pillow between your knees, side leg raises, and standing on one leg while you brush your teeth give them a job again. Test which hip is slacking with Previa Health in about two minutes on your phone, free. Save this for tonight. #SideSleeping #HipPain #HipMuscles #SleepPosition #PreviaHealth",
+          "duration": "00:44",
+          "created": "10. Sept., 21:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683297830596807958",
+          "url": "https://www.tiktok.com/@previahealth/video/7683297830596807958",
+          "caption": "Heel stinging for your first few steps in the morning? Your foot spends the night pointed down and stays short, so your first step pulls it long all at once, like biting into cold gum straight from the fridge. Pulling your foot toward you in bed, a calf stretch on the edge, and rolling the sole over a bottle before sleep give it its length back. Test it yourself with Previa Health in about two minutes on your phone, free. Save this for tomorrow morning. #MorningStiffness #HeelPain #FootHealth #Mobility #PreviaHealth",
+          "duration": "00:58",
+          "created": "10. Sept., 19:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683297708454448406",
+          "url": "https://www.tiktok.com/@previahealth/video/7683297708454448406",
+          "caption": "That chair twist can feel satisfying for a second, then show up again an hour later. Your body may be looking for the small turns your neck, ribcage and hips missed while you were facing one screen. Try this three-part reset before you force another twist. Follow Previa Health for the next body signal worth noticing. #DeskStiffness #BackMobility #RibMobility #OfficeHealth #PreviaHealth",
+          "duration": "00:56",
+          "created": "10. Sept., 14:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683096290913193238",
+          "url": "https://www.tiktok.com/@previahealth/video/7683096290913193238",
+          "caption": "Sit down on the floor, then stand up without using your hands. Your ankle, hip and balance need to work together for that, and years of rising only from chairs, sofas and car seats let that combination go quiet. Test your movement age with Previa Health in about two minutes on your phone, free. How many hands do you need? Tell me in the comments. #Mobility #Balance #AnkleMobility #MovementAge #PreviaHealth",
+          "duration": "01:09",
+          "created": "9. Sept., 23:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682549131688103190",
+          "url": "https://www.tiktok.com/@previahealth/video/7682549131688103190",
+          "caption": "Feet pointing outward when you walk? It is usually not the foot, it is the hip, which forgot how to turn inward after all that sitting. Three small moves bring that turn back. Test it in about two minutes on your phone, free, with Previa Health, and see how far your hip has actually stopped turning. Look at your feet right now. Do they point out? Tell me in the comments. #duckfeet #hipmobility #footposition #gait #PreviaHealth",
+          "duration": "00:55",
+          "created": "9. Sept., 21:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548948468305174",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548948468305174",
+          "caption": "Eight hours at a desk holds your neck, ribcage, hips and ankles shut all at once, not one at a time. Getting up for two minutes every hour, rotating your ribcage while seated, and pumping your calves under the desk open everything back up. Test it in about two minutes on your phone, free, with Previa Health, and see where you are stuck the most. Save this for your next office day. #deskjob #sittingtoolong #mobility #officelife #PreviaHealth",
+          "duration": "01:02",
+          "created": "9. Sept., 19:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7682548792867949846",
+          "url": "https://www.tiktok.com/@previahealth/video/7682548792867949846",
+          "caption": "Jaw feels tired and heavy by the end of the day? Your head drifts forward toward the screen all day, and your jaw and neck quietly hold it up, so your teeth end up resting together for hours. Tongue to the roof of your mouth, chin pulled straight back, and opening your chest in the evening give it real relief. Test it in about two minutes on your phone, free, with Previa Health. Save this for your next screen heavy day. #jawtension #neckpain #screentime #posture #PreviaHealth",
+          "duration": "01:06",
+          "created": "9. Sept., 14:00",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7618687139789720854",
+          "url": "https://www.tiktok.com/@previahealth/video/7618687139789720854",
+          "caption": "You've never taken a real full breath. Not because something is wrong with your lungs — but because your body physically won't let you. When your upper back is stiff and your shoulders are rounded, your ribcage can't fully expand. So your body defaults to shallow chest breathing. That keeps your nervous system in a low-level stress state all day. The fix isn't breathing exercises. It's unlocking the ribcage first. Once the cage opens, everything changes — sleep, stress, energy, recovery. #breathing #mobility #posture #stressrelief",
+          "duration": "02:54",
+          "created": "19. März, 16:10",
+          "pinned": true,
+          "views": "327",
+          "likes": "16",
+          "comments": "2"
+        }
+      ]
+    },
+    "previahealth_de": {
+      "port": 9223,
+      "account_metrics": {
+        "period": "last_7_days",
+        "overview": {
+          "video_views": {
+            "value_display": "10.9K",
+            "value": 10900,
+            "comparison_display": "+6.2K",
+            "comparison": 6200,
+            "change_display": "(128.5%)",
+            "change_percent": 128.5
+          },
+          "profile_views": {
+            "value_display": "30",
+            "value": 30,
+            "comparison_display": "-1",
+            "comparison": -1,
+            "change_display": "(-3.2%)",
+            "change_percent": -3.2
+          },
+          "likes": {
+            "value_display": "199",
+            "value": 199,
+            "comparison_display": "+78",
+            "comparison": 78,
+            "change_display": "(64.5%)",
+            "change_percent": 64.5
+          },
+          "comments": {
+            "value_display": "17",
+            "value": 17,
+            "comparison_display": "+5",
+            "comparison": 5,
+            "change_display": "(41.7%)",
+            "change_percent": 41.7
+          },
+          "shares": {
+            "value_display": "12",
+            "value": 12,
+            "comparison_display": "+10",
+            "comparison": 10,
+            "change_display": "(500.0%)",
+            "change_percent": 500
+          }
+        },
+        "followers": {
+          "total": {
+            "value_display": "1.3K",
+            "value": 1300
+          },
+          "net": {
+            "value_display": "9",
+            "value": 9,
+            "comparison_display": "+8",
+            "comparison": 8,
+            "change_display": "(800%)",
+            "change_percent": 800
+          }
+        }
+      },
+      "posts": [
+        {
+          "video_id": "7683298022456823062",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683298022456823062",
+          "caption": "Das ist Jonas. Er hat sich ein Stehpult gekauft, steht jetzt acht Stunden am Stück, und sein Rücken ist kein bisschen besser, weil Stillstand im Stehen genauso Stillstand ist wie im Sitzen. Mit Previa Health siehst du in zwei Minuten am Handy, was dein Körper wirklich braucht. Speicher dir das für dein Büro. #stehpult #buerojob #rueckenschmerzen #koerperwissen #PreviaHealth",
+          "duration": "00:54",
+          "created": "12. Sept., 11:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683297877669580054",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683297877669580054",
+          "caption": "Das ist Jonas. Er fährt jeden Tag mit dem Rad zur Arbeit und steht danach noch eine Weile wie im Sattel gefangen, nicht schwach, nur eingefahren. Mit Previa Health siehst du in zwei Minuten am Handy, wie lange dein Körper deine letzte Haltung noch mitträgt. Kommentier, wie lange deine Fahrt zur Arbeit dauert. #fahrradpendler #rueckenschmerzen #huefte #buerojob #PreviaHealth",
+          "duration": "01:04",
+          "created": "12. Sept., 09:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683297771499146518",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683297771499146518",
+          "caption": "Das ist Jonas. Er schläft auf dem Bauch und wacht jeden Morgen krumm auf, dabei ist sein Rücken nur acht Stunden lang im Hohlkreuz gehalten, nicht kaputt. Mit Previa Health siehst du in zwei Minuten am Handy, ob dein Rücken genauso reagiert. Speicher dir das für morgen früh. #bauchschlaf #rueckenschmerzen #schlafposition #morgensteifheit #PreviaHealth",
+          "duration": "01:03",
+          "created": "11. Sept., 19:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683294525938453763",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683294525938453763",
+          "caption": "Morgens ist in deinem Körper erstmal alles ein bisschen zusammengeklebt, deshalb fühlst du dich steif, bis die ersten Schritte alles wieder lösen. Previa Health zeigt dir am Handy, wie beweglich du gerade wirklich bist. Speicher dir das für den nächsten steifen Morgen. Wie lange brauchst du, bis es sich löst? #Morgensteifheit #Beweglichkeit #Koerperwissen #Bewegungsroutine #PreviaHealth",
+          "duration": "01:02",
+          "created": "11. Sept., 16:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099694125403414",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099694125403414",
+          "caption": "Das große Strecken am Morgen ist kein Zufall, dein Körper resettet damit die Spannung der Nacht, genau wie eine Katze nach dem Nickerchen. Previa Health zeigt dir am Handy, wie beweglich du wirklich bist. Speicher dir das für die nächste Sitzpause. Streckst du dich auch heimlich unterm Schreibtisch? #Morgenroutine #Beweglichkeit #Koerperwissen #Buerojob #PreviaHealth",
+          "duration": "01:04",
+          "created": "11. Sept., 13:15",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099578941377814",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099578941377814",
+          "caption": "Muskeln, die nichts tragen müssen, baut dein Körper sofort ab, aber der Aufbau danach dauert immer viel länger. Deshalb wackeln nach einer Grippe die Beine auf der Treppe. Previa Health zeigt dir in rund zwei Minuten, wo dein Körper gerade steht. Speicher dir das für die nächste Pause. #Muskelaufbau #Longevity #Bewegungsalter #Alltagsbewegung #PreviaHealth",
+          "duration": "00:50",
+          "created": "11. Sept., 11:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099466181725462",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099466181725462",
+          "caption": "Deine Knochen werden ständig neu aufgebaut, aber nur dort, wo sie wirklich Stöße spüren. Ohne Belastung baut dein Körper leise ab, was niemand nutzt. Mit Previa Health siehst du in rund zwei Minuten, wie belastet dein Körper wirklich ist. Speicher dir das für den nächsten Treppen-Tag. #Knochengesundheit #Bewegungsalter #Alltagsbewegung #Longevity #PreviaHealth",
+          "duration": "00:52",
+          "created": "11. Sept., 09:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099305925692694",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099305925692694",
+          "caption": "Schmerz zeigt nicht, was kaputt ist, sondern wo dein Körper gerade Alarm schlägt, auch ganz ohne Schaden. Previa Health hilft dir in zwei Minuten zu verstehen, wie sich das bei dir anfühlt. Speicher dir das für schlechte Tage. #schmerzverstehen #koerperwissen #rueckenschmerzen #longevity #PreviaHealth",
+          "duration": "00:54",
+          "created": "10. Sept., 19:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        },
+        {
+          "video_id": "7683099172723084566",
+          "url": "https://www.tiktok.com/@previahealth_de/video/7683099172723084566",
+          "caption": "Dein Po schaltet beim langen Sitzen einfach ab, und Rücken und Oberschenkel übernehmen seinen Job. Previa Health zeigt dir in zwei Minuten, wo genau das bei dir passiert. Wie lange sitzt du am Stück? Schreib es in die Kommentare. #sitzen #rueckenschmerzen #buerojob #koerperwissen #PreviaHealth",
+          "duration": "00:53",
+          "created": "10. Sept., 16:30",
+          "pinned": false,
+          "views": "0",
+          "likes": "0",
+          "comments": "0"
+        }
+      ]
+    }
+  }
+}

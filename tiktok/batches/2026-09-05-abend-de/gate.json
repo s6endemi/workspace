@@ -1,0 +1,104 @@
+{
+ "2026-09-06-de-01-wade-nachts": {
+  "pass": false,
+  "grund": "Reihe 1 ab Frame 4: neun Frames nur Waden-/Gummiband-Diagramme, kein Charakter",
+  "leer": 0.25,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-02-ferse-morgens": {
+  "pass": true,
+  "grund": "Charakter durchgehend präsent, nur kurze Diagramm-Einschübe",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-03-vom-boden-aufstehen": {
+  "pass": true,
+  "grund": "Textkarten/Icons nie über sieben Frames am Stück, Charakter regelmäßig sichtbar",
+  "leer": 0.95,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-04-haende-nachts": {
+  "pass": true,
+  "grund": "Charakter durchgehend präsent, nur kurze Hand-Nahaufnahmen",
+  "leer": 0.08,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-05-huefte-seitenschlaf": {
+  "pass": true,
+  "grund": "Charakter in jedem Frame sichtbar",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-06-ruecken-zaehneputzen": {
+  "pass": false,
+  "grund": "Reihe 1 ab Frame 5: acht Frames nur Kran-/Hebel-Diagramme ohne Charakter",
+  "leer": 0.24,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-07-tasche-schulter": {
+  "pass": true,
+  "grund": "Nur kurzer Diagramm-Block (5 Frames), Charakter sonst durchgehend praesent",
+  "leer": 0.2,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-08-bein-ueberschlagen": {
+  "pass": false,
+  "grund": "Reihe 1 bis 3: ueber 15 Frames nur Text/Pfeile/Becken-Anatomie ohne Charakter",
+  "leer": 0.76,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-09-kind-huefte": {
+  "pass": false,
+  "grund": "Reihe 4 ab 'Seitneigen' bis Reihe 5: ~9 Frames nur Wirbelsaeulen-Icon ohne Charakter",
+  "leer": 0.07,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-10-jacke-schulter": {
+  "pass": true,
+  "grund": "Charakter durchgehend in jedem Frame sichtbar",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-11-bummeln-ruecken": {
+  "pass": true,
+  "grund": "Charakter durchgehend praesent, Auto-Frames nur kurz und mit Fahrer",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-12-kiefer-abends": {
+  "pass": true,
+  "grund": "Charakter in allen Frames durchgehend sichtbar",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-13-ischias-v2": {
+  "pass": true,
+  "grund": "Sticker-Mann durchgehend erkennbar, keine Aussetzer",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-14-acht-stunden-v2": {
+  "pass": true,
+  "grund": "Nur einzelne Frames leer/Glitch, Charakter sonst durchgehend präsent",
+  "leer": 0.98,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-15-kopfschmerz-v2": {
+  "pass": false,
+  "grund": "Reihe 1: schwarze Silhouette/Blob statt Sticker-Mann im ganzen Video",
+  "leer": 0.33,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-16-entenfuesse": {
+  "pass": true,
+  "grund": "Sticker-Mann durchgehend erkennbar, keine Aussetzer",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-06-de-17-nach-oben-schauen": {
+  "pass": true,
+  "grund": "Charakter durchgehend als Person zu sehen, kein Strichmann/Silhouette",
+  "leer": 0.0,
+  "quelle": "urteil"
+ }
+}

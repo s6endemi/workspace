@@ -1,0 +1,9 @@
+{
+ "stages": {
+  "check": "done"
+ },
+ "produce_runs": 11,
+ "einsammeln_kaputt": true,
+ "publish_rc": 0,
+ "started": "2026-09-09T14:13:46.068041"
+}

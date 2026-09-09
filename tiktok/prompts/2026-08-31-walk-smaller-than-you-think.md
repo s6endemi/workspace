@@ -1,0 +1,3 @@
+Deutsche Du-Ansprache, TikTok-Retention statt Aufklaervideo, starker symptomnaher Contrast-Hook, PREVIA frueh in Sekunde 15-25 als Selbsttest, konkrete Alltagsszenen, kein klinischer Ton und keine Sie-Form.
+
+Erzaehle dieses Hit-Recycling auf Deutsch in ca. 60 bis 90 Sekunden. Hook: Dein Gang ist kleiner geworden, ohne dass du es merkst. Zeige die ersten steifen Schritte nach einem langen Meeting. Die Aufloesung darf nicht zu groesseren Schritten raten, sondern zur wiedergefundenen Rueckseite des Schritts: Huefte, abrollender Fuss, lockerer Gegenschwung des Arms. Nenne PREVIA zwischen Sekunde 15 und 25 als schnellen Selbsttest fuer Seitenunterschiede im Gang. Gib ein entspanntes 10-Schritte-Experiment. Keine Diagnose oder Heilversprechen.

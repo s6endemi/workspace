@@ -1,0 +1,29 @@
+# You did not get stiff. You stopped rotating.
+
+**Format:** C-reclaim
+
+## Script source
+
+You can sit, stand, sleep, drive, and scroll through an entire day without really turning your ribcage. Then you reach for the passenger seat, look over your shoulder to reverse, or twist to grab something behind you, and your whole upper body feels like it received the request too late.
+
+Nobody explains how quickly rotation disappears because modern life rarely asks for it. Chairs keep your hips square. Screens keep your eyes straight ahead. Cars turn your body into a seatbelt-shaped statue. Your spine is built to share turning between the ribs, shoulders, and hips. When those parts stop taking turns, one area usually tries to do all the work.
+
+That can show up as a stiff upper back after driving, a neck that does all the looking, or a low back that feels involved in a simple twist. It is less like becoming fragile and more like a door hinge that has not been opened in a while. The hinge still exists. It just needs regular use before it stops feeling surprising.
+
+PREVIA's free movement scan can help you spot where your body starts borrowing movement from somewhere else. It takes five minutes on your phone.
+
+Bring rotation back in small doses. Stand with your feet planted and make five slow turns each direction, letting your chest turn without yanking your neck. On a chair, place one hand across your chest and gently turn toward that side for five breaths. When you walk, let your arms swing instead of pinning them to your sides. These are not dramatic exercises. They are reminders for a movement your day quietly removed.
+
+You do not need to become more flexible overnight. You need your body to remember that turning is allowed.
+
+## Caption
+
+Stiffness is not always a sign that you need a bigger stretch. Sometimes your day simply stopped asking your ribs, shoulders, and hips to turn together. A few calm rotations and a normal arm swing on a walk can be a better place to start than forcing the tightest spot. Keep this for the next long drive or desk day.
+
+#thoracicmobility #spinemobility #deskstiffness #bodyrotation #previahealth
+
+## Production
+
+- Source: `2026-09-01-en-02-stopped-rotating-source.txt`
+- Editor prompt: `2026-09-01-en-02-stopped-rotating-editor.txt`
+- Experiment: Standard C-reclaim, PREVIA early

@@ -1,0 +1,8 @@
+{
+ "2026-09-07-entest-08-floor-to-stand": {
+  "pass": true,
+  "grund": "Heuristik: 48 % leere Sekunden",
+  "leer": 0.49,
+  "quelle": "heuristik"
+ }
+}

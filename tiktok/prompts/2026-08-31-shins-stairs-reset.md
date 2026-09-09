@@ -1,0 +1,3 @@
+Deutsche Du-Ansprache, TikTok-Retention statt Aufklaervideo, starker symptomnaher Contrast-Hook, PREVIA frueh in Sekunde 15-25 als Selbsttest, konkrete Alltagsszenen, kein klinischer Ton und keine Sie-Form.
+
+Erzaehle dieses Direct-Help-Video auf Deutsch in ca. 60 bis 90 Sekunden. Starte mit dem brennenden Schienbein auf der Treppe und dem Kontrast: nicht sofort die Wade aggressiv dehnen. Zeige zuerst den 30-Sekunden-Step-Reset, dann erklaere anschaulich die Rolle von Sprunggelenk und vorderem Unterschenkel beim Wechsel vom Sitzen zur Treppe. Nenne PREVIA zwischen Sekunde 15 und 25 als schnellen Selbsttest fuer Seitenunterschiede. Nutze eine Pendler- oder Buero-Alltagsszene. Keine Diagnose, kein Heilversprechen. Nenne Warnzeichen nur kurz und sachlich.
