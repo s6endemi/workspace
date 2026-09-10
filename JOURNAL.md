@@ -1984,3 +1984,51 @@ Duplikat-Sperre; Token mit `read_insights` neu erzeugen.
 
 **Nebenbefund.** `tt-metrics` liest nur die ersten neun Studio-Einträge (geplante), veröffentlichte Videos
 fehlen seit dem Planen — reparieren.
+
+### 10.09. 17:00 — Batch 5 (2026-09-10-abend-de, Prefix 2026-09-10-de) gestartet
+
+**Anlass.** Eren: „Mir haben die letzten Videos alle deutlich besser gefallen, spannende Themen und gute
+Visualisierungen. Prüf, ob der neue Batch funktioniert, und poste direkt.“ Gleicher Weg wie Batch 4:
+Format-Palette 3× F1, 3× F3, 2× F2, 2× F4, 2× F5, Variante K.
+
+**Herstellung.** Sperrliste `_themen-bisher.md` (83 Titel + Hooks aller Batches, per Skript erzeugt) →
+vier Sonnet-Schreiber parallel mit getrennten Themenpools (Schlaf/Füße/Stehen; Sitzen/Knie/Mythen;
+Gehen/Atmen/Tragen; Hüfte/Hocke/Alltagsmysterien) und Goldstandard-Beispielen aus Batch 4 → ein
+Opus-Reviewer gegen Brief, Bildregeln, Domänen-Passung (Bewegung/Haltung, nicht Gehirn/Schlaf) und
+Dedup innerhalb des Batches. Der Reviewer ersetzte 7 von 12: Hotel-Erste-Nacht (Gehirnthema), Konzert-
+Balance (Dublette Socken), harte Matratze (Dublette Rückenschläfer), Kiste heben (verbotene Formulierung
+und Bowlingkugel-Metapher), Einkaufstüten (Dublette einseitige Last), Schneidersitz (Dublette Hocke),
+Gähnen/Strecken (Dublette Körper streckt sich). Lehre: Parallele Schreiber dedupen nicht gegen den
+Goldstandard und nicht gegeneinander; der Reviewer-Schritt ist Pflicht, nicht Kür.
+
+**Endstand.** Teppichkante, enge Schuhe, verdreht vorm Fernseher (F1); gerade sitzen, Schwimmen,
+Sixpack (F3); knien, über Kopf (F2); Luft anhalten, aus dem Bett (F4); kalter Morgen, nachts drehen
+(F5). `batch_check` grün, Hooks deutsch, „Previa Health“ je Quelle zweimal, keine Duplikate.
+Reaktor per Task PreviaReaktorDE5 um 16:59 gestartet (Wachhund 11.09. 09:00, Akku-Flags aus), Slots ab
+13.09. hinter Batch 4, Deadline 11.09. 12:00, Cross-Post ig,yt (Facebook pausiert).
+
+**Rückweg.** Batch-Ordner löschen, Tasks PreviaReaktorDE5/-Wachhund entfernen.
+
+### 10.09. 21:05 — Batch 5: zwei Skripte von NotebookLM abgelehnt, zurückgestellt
+
+**Befund.** 10 von 12 Videos zwischen 17:03 und 18:40 sauber erzeugt. `02-jonas-enge-schuhe-f1` und
+`10-aus-dem-bett-f4` scheiterten je zweimal (17:03/18:21 und beide 20:13) mit dem NotebookLM-Fehler
+„Die Video-Zusammenfassung konnte nicht erstellt werden“, während die Nachbarvideos derselben Welle
+gelangen. Also inhaltlich, nicht Limit. `batch_produce` erkennt solche Fehlerzeilen nicht und wartet
+trotzdem die vollen 45 Minuten (`KEIN ARTEFAKT`); der Reaktor hätte noch zweimal so gewartet.
+
+**Maßnahme.** Reaktor gestoppt (Prozessbaum), beide Ordner nach `_zurueckgestellt/` (mit GRUND.txt),
+Reaktor per Task neu gestartet: 10 Items, Produktion „alle vorhanden“, dann Gate, Planung ab 13.09.
+19:30, Instagram-Queue, YouTube. Facebook pausiert.
+
+**Offen.** (1) `batch_produce`/`batch_collect`: Fehlerzeilen („konnte nicht erstellt werden“, Buttons
+„Wiederholen/Löschen“) erkennen, Item als GEN FEHLER markieren und nicht 45 min warten; die Fehlerzeilen
+im Notebook löschen. (2) Die zwei Skripte umschreiben (andere Metapher/Formulierung) und als Mini-Batch
+nachholen; Auslöser unbekannt, Wortmaterial beider Quellen vergleichen (Kandidaten: „wrecked“, „hardest“,
+Schmerz-Wörter).
+
+**Ergebnis 21:35.** Gate 8 PASS, 2 FAIL (05-schwimmen: nur Pfeile/Text; 06-sixpack: nur Diagramme, kein
+Charakter; beides F3-Mechanik-Erklärungen, siehe Befund „Vergleiche werden Diagramme“). 8 Videos auf
+TikTok DE 13.09. 19:30 bis 15.09. 11:30, Instagram-Queue, YouTube 0 Fehler. Batch 5 gesamt: 12 Skripte,
+8 veröffentlicht, 2 von NotebookLM abgelehnt, 2 im Gate. Nächster Batch: F3 braucht eine Szene mit
+Handlung statt Erklärung, sonst zeichnet NotebookLM Grafiken.

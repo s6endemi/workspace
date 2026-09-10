@@ -95,35 +95,35 @@
   "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-02-muskelkater-zwei-tage.txt",
   "lang": "de",
   "when": "2026-09-10 09:30",
-  "status": "offen"
+  "status": "veroeffentlicht"
  },
  "2026-09-08-de-03-sehnen-federn.mp4": {
   "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-03-sehnen-federn.mp4",
   "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-03-sehnen-federn.txt",
   "lang": "de",
   "when": "2026-09-10 11:30",
-  "status": "offen"
+  "status": "veroeffentlicht"
  },
  "2026-09-08-de-04-dehnen-gehirn.mp4": {
   "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-04-dehnen-gehirn.mp4",
   "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-04-dehnen-gehirn.txt",
   "lang": "de",
   "when": "2026-09-10 13:15",
-  "status": "offen"
+  "status": "veroeffentlicht"
  },
  "2026-09-08-de-05-po-vergisst.mp4": {
   "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-05-po-vergisst.mp4",
   "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-05-po-vergisst.txt",
   "lang": "de",
   "when": "2026-09-10 16:30",
-  "status": "offen"
+  "status": "veroeffentlicht"
  },
  "2026-09-08-de-06-schmerz-alarm.mp4": {
   "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-06-schmerz-alarm.mp4",
   "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-06-schmerz-alarm.txt",
   "lang": "de",
   "when": "2026-09-10 19:30",
-  "status": "offen"
+  "status": "veroeffentlicht"
  },
  "2026-09-08-de-07-knochen-konto.mp4": {
   "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-08-de-07-knochen-konto.mp4",
@@ -221,6 +221,62 @@
   "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-09-de-12-urlaub-vs-wochenende-f5.txt",
   "lang": "de",
   "when": "2026-09-13 16:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-01-jonas-teppichkante-f1.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-01-jonas-teppichkante-f1.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-01-jonas-teppichkante-f1.txt",
+  "lang": "de",
+  "when": "2026-09-13 19:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-03-jonas-fernseher-f1.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-03-jonas-fernseher-f1.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-03-jonas-fernseher-f1.txt",
+  "lang": "de",
+  "when": "2026-09-14 09:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-04-gerade-sitzen-f3.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-04-gerade-sitzen-f3.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-04-gerade-sitzen-f3.txt",
+  "lang": "de",
+  "when": "2026-09-14 11:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-07-knien-am-boden-f2.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-07-knien-am-boden-f2.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-07-knien-am-boden-f2.txt",
+  "lang": "de",
+  "when": "2026-09-14 13:15",
+  "status": "offen"
+ },
+ "2026-09-10-de-08-ueber-kopf-f2.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-08-ueber-kopf-f2.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-08-ueber-kopf-f2.txt",
+  "lang": "de",
+  "when": "2026-09-14 16:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-09-luft-anhalten-f4.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-09-luft-anhalten-f4.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-09-luft-anhalten-f4.txt",
+  "lang": "de",
+  "when": "2026-09-14 19:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-11-kalter-morgen-f5.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-11-kalter-morgen-f5.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-11-kalter-morgen-f5.txt",
+  "lang": "de",
+  "when": "2026-09-15 09:30",
+  "status": "offen"
+ },
+ "2026-09-10-de-12-nachts-drehen-f5.mp4": {
+  "mp4": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-12-nachts-drehen-f5.mp4",
+  "txt": "C:\\Users\\Eren\\agents\\workspace\\tiktok\\out\\2026-09-10-de-12-nachts-drehen-f5.txt",
+  "lang": "de",
+  "when": "2026-09-15 11:30",
   "status": "offen"
  }
 }

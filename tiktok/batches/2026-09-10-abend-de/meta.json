@@ -1,0 +1,62 @@
+{
+ "01-jonas-teppichkante-f1": {
+  "frag": "Why Jonas Trips Over The",
+  "hook": "Jonas bleibt jede Woche an derselben Teppichkante im eigenen Flur hängen, und niemand hat ihm je gesagt, warum.",
+  "status": "OK 1:02 -> 2026-09-10-de-01-jonas-teppichkante-f1.mp4"
+ },
+ "02-jonas-enge-schuhe-f1": {
+  "frag": "Why Jonas's Feet Feel Wrecked",
+  "hook": "Jonas ist erst fünfzehn Minuten unterwegs, und seine Füße fühlen sich schon platt an.",
+  "status": "quelle ok"
+ },
+ "03-jonas-fernseher-f1": {
+  "frag": "Why Jonas Walks Away From",
+  "hook": "Jonas steht jeden Abend vom Sofa auf und läuft die ersten Schritte leicht schief, und niemand hat ihm je gesagt, warum.",
+  "status": "OK 0:58 -> 2026-09-10-de-03-jonas-fernseher-f1.mp4"
+ },
+ "04-gerade-sitzen-f3": {
+  "frag": "Sitting Perfectly Straight Is The",
+  "hook": "Perfekt gerade sitzen ist nicht die gesündeste Haltung für deinen Rücken. Es ist die anstrengendste.",
+  "status": "OK 1:04 -> 2026-09-10-de-04-gerade-sitzen-f3.mp4"
+ },
+ "05-schwimmen-ruecken-f3": {
+  "frag": "Swimming Is Not The Back",
+  "hook": "Schwimmen ist kein Rückentraining. Es ist die eine Stunde der Woche, in der dein Rücken fast nichts zu tun hat.",
+  "status": "OK 0:58 -> 2026-09-10-de-05-schwimmen-ruecken-f3.mp4"
+ },
+ "06-sixpack-schuetzt-nicht-f3": {
+  "frag": "A Six Pack Does Not",
+  "hook": "Ein Sixpack schützt deinen Rücken nicht. Ein Bauch, der lange durchhält, schon.",
+  "status": "OK 1:07 -> 2026-09-10-de-06-sixpack-schuetzt-nicht-f3.mp4"
+ },
+ "07-knien-am-boden-f2": {
+  "frag": "What An Hour On Your",
+  "hook": "Wenn du am Wochenende Möbel aufbaust oder im Garten kniest, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die den Unterschied machen, wenn du wieder aufstehst.",
+  "status": "OK 1:08 -> 2026-09-10-de-07-knien-am-boden-f2.mp4"
+ },
+ "08-ueber-kopf-f2": {
+  "frag": "Why Twenty Minutes Of Overhead",
+  "hook": "Wenn du gleich eine Lampe wechselst, die Decke streichst oder das oberste Regal ausräumst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die deinen Rücken das nicht ausbaden lassen.",
+  "status": "OK 1:03 -> 2026-09-10-de-08-ueber-kopf-f2.mp4"
+ },
+ "09-luft-anhalten-f4": {
+  "frag": "The Real Reason You Hold",
+  "hook": "Das wurde dir über das Luftanhalten beim Heben nie erklärt.",
+  "status": "OK 1:10 -> 2026-09-10-de-09-luft-anhalten-f4.mp4"
+ },
+ "10-aus-dem-bett-f4": {
+  "frag": "The Real Reason Getting Out",
+  "hook": "Das wurde dir über das Aufstehen aus dem Bett nie erklärt.",
+  "status": "quelle ok"
+ },
+ "11-kalter-morgen-f5": {
+  "frag": "Why Your First Hundred Metres",
+  "hook": "An einem kalten Morgen gehören deine ersten hundert Meter einem anderen Körper als der Rest des Spaziergangs.",
+  "status": "OK 1:10 -> 2026-09-10-de-11-kalter-morgen-f5.mp4"
+ },
+ "12-nachts-drehen-f5": {
+  "frag": "Why You Turn Over Thirty",
+  "hook": "Du drehst dich jede Nacht rund dreißig Mal um, und du erinnerst dich an keine einzige davon.",
+  "status": "OK 1:05 -> 2026-09-10-de-12-nachts-drehen-f5.mp4"
+ }
+}

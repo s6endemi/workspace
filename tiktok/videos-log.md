@@ -130,3 +130,11 @@ Dedup liest nur die letzten ~20 Zeilen. Älteres bleibt stehen (Auswertung), ab 
 | 2026-09-13 | Why Kids Almost Never Complain About Back Pain | Batch 2026-09-09-de / 11-kinder-keine-rueckenschmerzen-f5 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 13:15 | — |
 | 2026-09-13 | Why A City Trip Leaves You Looser Than A Weekend | Batch 2026-09-09-de / 12-urlaub-vs-wochenende-f5 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 16:30 | — |
 | 2026-09-11 | Back pain when you stand for long is not what they keep telling you | Batch 2026-09-07-en / 05-back-when-standing | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-11 14:00 | — |
+| 2026-09-13 | Why Jonas Trips Over The Same Carpet Edge Every Week | Batch 2026-09-10-de / 01-jonas-teppichkante-f1 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-13 19:30 | — |
+| 2026-09-14 | Why Jonas Walks Away From His Sofa Slightly Crooked | Batch 2026-09-10-de / 03-jonas-fernseher-f1 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-14 09:30 | — |
+| 2026-09-14 | Sitting Perfectly Straight Is The Hardest Way To Sit | Batch 2026-09-10-de / 04-gerade-sitzen-f3 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-14 11:30 | — |
+| 2026-09-14 | What An Hour On Your Knees Actually Does To Your Legs | Batch 2026-09-10-de / 07-knien-am-boden-f2 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-14 13:15 | — |
+| 2026-09-14 | Why Twenty Minutes Of Overhead Work Costs You A Whole Evening | Batch 2026-09-10-de / 08-ueber-kopf-f2 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-14 16:30 | — |
+| 2026-09-14 | The Real Reason You Hold Your Breath When Lifting Something Heavy | Batch 2026-09-10-de / 09-luft-anhalten-f4 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-14 19:30 | — |
+| 2026-09-15 | Why Your First Hundred Metres In The Cold Feel Different | Batch 2026-09-10-de / 11-kalter-morgen-f5 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-15 09:30 | — |
+| 2026-09-15 | Why You Turn Over Thirty Times Every Single Night | Batch 2026-09-10-de / 12-nachts-drehen-f5 | Batch-Produktion (Stil-Anker vorne) | geplant 2026-09-15 11:30 | — |

@@ -1,0 +1,1 @@
+NotebookLM: "Video-Zusammenfassung konnte nicht erstellt werden", je zweimal (10.09. 17:03/20:13 bzw. 18:21/20:13); Ursache vermutlich Inhalt. Vor einem Neuversuch Quelle/Prompt umschreiben.

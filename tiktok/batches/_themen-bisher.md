@@ -1,0 +1,87 @@
+# Bereits verwendete Themen (Sperrliste für neue Batches, Stand 10.09.)
+
+Jedes neue Skript braucht ein Thema, das hier weder als Titel noch als Mechanik vorkommt.
+
+- 2026-09-04-nacht-de / 01-unterer-ruecken: Your lower back hurts and nobody can tell you why | Hook: Du hast Schmerzen im unteren Rücken und weißt nicht, woran es liegt? Dann hör mir jetzt ga
+- 2026-09-04-nacht-de / 02-ruecken-beim-stehen: Back pain when you stand for long is not what they keep telling you | Hook: Rückenschmerzen beim langen Stehen? Es ist nicht das, was du denkst, und nicht das, was di
+- 2026-09-04-nacht-de / 03-nacken-knacken: Your neck cracks when you turn your head and this is why | Hook: Dein Nacken knackt bei jeder Drehung? Was das wirklich ist, hat dir noch niemand gesagt. D
+- 2026-09-04-nacht-de / 04-hocke: A toddler can still squat all the way down. When did you stop? | Hook: Kannst du noch in die tiefe Hocke? Nicht das Alter, Stühle und Schuhe haben es dir genomme
+- 2026-09-04-nacht-de / 05-ischias-kribbeln: One leg tingles or goes numb when you sit? Save this before it happens again. | Hook: Wenn dir beim Sitzen ein Bein kribbelt oder taub wird, speichere dir dieses Video. Gleich 
+- 2026-09-04-nacht-de / 06-atmung-recycle: You have been breathing wrong for years and never noticed | Hook: Dein Brustkorb bewegt sich seit Jahren nur noch oben, und das hat dir nie jemand gezeigt. 
+- 2026-09-04-nacht-de / 07-huefte-auto: Your hip forgets how long it is supposed to be | Hook: Wenn deine Hüfte beim Aussteigen aus dem Auto klemmt, speicher dir dieses Video. Gleich ze
+- 2026-09-04-nacht-de / 08-knie-treppe: Your knees on the stairs were never actually the problem | Hook: Das wurde dir über deine Knieschmerzen auf der Treppe nie erklärt.
+- 2026-09-04-nacht-de / 09-schultern-ohren: Your shoulders climb up to your ears by evening and here is why | Hook: Wenn deine Schultern abends an den Ohren hängen, speicher dir dieses Video. Gleich zeige i
+- 2026-09-04-nacht-de / 10-sofa-abend: Your soft sofa is making your evenings stiffer, not easier | Hook: Dein Sofa macht dich abends steifer, nicht lockerer, und das hat dir die Möbelindustrie ni
+- 2026-09-04-nacht-de / 11-acht-stunden-sitzen: What eight hours of sitting actually does to your body, top to bottom | Hook: Wenn du acht Stunden am Schreibtisch sitzt, speichere dir dieses Video, gleich zeige ich d
+- 2026-09-04-nacht-de / 12-kopfschmerz-nacken: A headache that starts at the back of your head is rarely explained properly | Hook: Kopfschmerzen, die am Hinterkopf anfangen und nach vorn ziehen, das wurde dir nie erklärt.
+- 2026-09-05-abend-de / 01-wade-nachts: Why your calf cramps the second you fall asleep | Hook: Wenn dich nachts deine Wade weckt, speicher dir dieses Video. Gleich zeige ich dir die dre
+- 2026-09-05-abend-de / 02-ferse-morgens: Why your heel only hurts for the first few steps | Hook: Dir wurde nie erklärt, warum die ersten Schritte am Morgen in der Ferse stechen.
+- 2026-09-05-abend-de / 03-vom-boden-aufstehen: What Standing Up From The Floor Reveals About You | Hook: Setz dich auf den Boden und steh ohne Hände wieder auf. Dir wurde nie erklärt, was das übe
+- 2026-09-05-abend-de / 04-haende-nachts: Your Hands Go Numb At Night For A Reason | Hook: Wenn deine Hände nachts einschlafen, speicher dir dieses Video. Gleich zeige ich dir die d
+- 2026-09-05-abend-de / 05-huefte-seitenschlaf: Why Your Hip Hurts When You Sleep On Your Side | Hook: Dir wurde nie erklärt, warum deine Hüfte beim Seitenschlafen drückt.
+- 2026-09-05-abend-de / 06-ruecken-zaehneputzen: Your Back Is Doing The Work Your Hips Should | Hook: Wenn dein Rücken beim Zähneputzen zieht, speicher dir dieses Video. Gleich zeige ich dir d
+- 2026-09-05-abend-de / 07-tasche-schulter: The Shoulder That Quietly Does All The Work | Hook: Dir wurde nie erklärt, warum eine Tasche auf einer Schulter deinen Nacken so fertig macht.
+- 2026-09-05-abend-de / 08-bein-ueberschlagen: The Leg Your Body Always Chooses To Cross | Hook: Du überschlägst immer dasselbe Bein. Dir wurde nie erklärt, was das mit deiner Hüfte macht
+- 2026-09-05-abend-de / 09-kind-huefte: The Hip That Always Carries The Weight | Hook: Wenn du dein Kind immer auf derselben Hüfte trägst, speicher dir dieses Video. Gleich zeig
+- 2026-09-05-abend-de / 10-jacke-schulter: Your Second Sleeve Knows What Your Shoulder Forgot | Hook: Dir wurde nie erklärt, warum dich die Jacke beim Anziehen an der Schulter zwickt. Bleib ku
+- 2026-09-05-abend-de / 11-bummeln-ruecken: Why Slow Strolling Wrecks Your Back More Than Hiking | Hook: Dir wurde nie erklärt, warum dir zwanzig Minuten Bummeln mehr wehtun als eine ganze Wander
+- 2026-09-05-abend-de / 12-kiefer-abends: The Real Reason Your Jaw Feels Tired at Night | Hook: Wenn dein Kiefer abends müde ist, speicher dir dieses Video. Gleich zeige ich dir die drei
+- 2026-09-05-abend-de / 13-ischias-v2: The Real Reason Your Leg Tingles When Sitting | Hook: Wenn dir beim Sitzen ein Bein kribbelt oder taub wird, speicher dir dieses Video. Gleich z
+- 2026-09-05-abend-de / 14-acht-stunden-v2: Why Your Body Feels Stuck After A Desk Day | Hook: Wenn du acht Stunden am Schreibtisch sitzt, speicher dir dieses Video. Gleich zeige ich di
+- 2026-09-05-abend-de / 15-kopfschmerz-v2: The Headache Your Neck Is Actually Causing | Hook: Kopfschmerzen, die am Hinterkopf anfangen und nach vorn ziehen, dir wurde nie erklärt, woh
+- 2026-09-05-abend-de / 16-entenfuesse: Your feet point out because your hip stopped turning in | Hook: Schau beim nächsten Gehen auf deine Fußspitzen. Zeigen sie nach außen, wurde dir nie erklä
+- 2026-09-05-abend-de / 17-nach-oben-schauen: Nobody explains why looking up strains your neck, not your back | Hook: Dir wurde nie erklärt, warum du beim Blick nach oben ins Regal den Nacken spürst und nicht
+- 2026-09-05-abend-de / 18-huefte-rausschieben: Standing on one leg, you push your hip out and here is why | Hook: Du stehst gerade auf einem Bein und schiebst die Hüfte raus. Dir wurde nie erklärt, was da
+- 2026-09-05-abend-de / 19-knie-treppe-v2: Why stairs hurt your knees and what they never told you | Hook: Das wurde dir über deine Knieschmerzen auf der Treppe nie erklärt.
+- 2026-09-06-en / 01-neck-cracks: Your neck cracks when you turn your head and this is why | Hook: Your neck cracks every time you turn your head? Nobody has told you what that really is.
+- 2026-09-06-en / 02-hip-after-driving: Your hip forgets how long it is supposed to be | Hook: Does your hip lock up the moment you get out of the car? Save this video, in a moment I sh
+- 2026-09-06-en / 03-shoulders-up-to-ears: Your shoulders climb up to your ears by evening and here is why | Hook: Do your shoulders end up at your ears by evening? Save this video, in a moment I show you 
+- 2026-09-06-en / 04-soft-sofa: Your soft sofa is making your evenings stiffer, not easier | Hook: Your sofa does not relax you in the evening. It leaves you stiffer than your whole workday
+- 2026-09-06-en / 05-back-when-standing: Back pain when you stand for long is not what they keep telling you | Hook: Your back hurts when you stand for a long time? It is not what you think, and not what you
+- 2026-09-06-en / 06-breathing-wrong: You have been breathing wrong for years and never noticed | Hook: You have been breathing wrong for years and you never noticed it. Stay with me, this is qu
+- 2026-09-06-en / 07-heel-first-steps: Why your heel only hurts for the first few steps | Hook: You were never told why your heel stings on your very first steps in the morning.
+- 2026-09-06-en / 08-floor-to-stand: What Standing Up From The Floor Reveals About You | Hook: Sit down on the floor, then stand back up without using your hands. Nobody ever explained 
+- 2026-09-06-en / 09-hands-numb-at-night: Your Hands Go Numb At Night For A Reason | Hook: Do your hands fall asleep at night, tingling until you have to shake them awake? Save this
+- 2026-09-06-en / 10-hip-side-sleeping: Why Your Hip Hurts When You Sleep On Your Side | Hook: Nobody ever explained why your hip aches when you lie on your side.
+- 2026-09-06-en / 11-bag-on-one-shoulder: The Shoulder That Quietly Does All The Work | Hook: Nobody ever explained why a bag on one shoulder can wreck your neck this fast. Stay with m
+- 2026-09-06-en / 12-jacket-shoulder: Your Second Sleeve Knows What Your Shoulder Forgot | Hook: Does your shoulder pinch every time you reach for the second sleeve of your jacket? Nobody
+- 2026-09-06-en / 13-slow-strolling-back: Why Slow Strolling Wrecks Your Back More Than Hiking | Hook: Does twenty minutes of window shopping leave your back more sore than an entire hike? Nobo
+- 2026-09-06-en / 14-tired-jaw: The Real Reason Your Jaw Feels Tired at Night | Hook: Does your jaw feel tired and heavy by the end of the day? Save this video, in a moment I s
+- 2026-09-06-en / 15-leg-tingles-sitting: The Real Reason Your Leg Tingles When Sitting | Hook: Does your leg tingle or go slightly numb when you sit? Save this video, in a moment I show
+- 2026-09-06-en / 16-eight-hours-desk: Why Your Body Feels Stuck After A Desk Day | Hook: If you sit at your desk for eight hours, save this video. In a moment I show you what that
+- 2026-09-06-en / 17-feet-point-out: Your feet point out because your hip stopped turning in | Hook: Look at your toes the next time you walk. If they point outward, nobody ever explained wha
+- 2026-09-06-en / 18-looking-up-neck: Nobody explains why looking up strains your neck, not your back | Hook: Nobody ever explained why you feel it in your neck, not your back, when you look up at a h
+- 2026-09-07-abend-de / 01-morgens-groesser: Why You're Taller In The Morning Than At Night | Hook: Du bist morgens einen Zentimeter größer als abends, und der Grund verändert, wie du sitzen
+- 2026-09-07-abend-de / 02-muskelkater-zwei-tage: Why Muscle Soreness Waits Two Full Days | Hook: Muskelkater kommt nicht am nächsten Tag. Er kommt am übernächsten, und das hat einen Grund
+- 2026-09-07-abend-de / 03-sehnen-federn: The Free Energy Hiding In Every Step You Take | Hook: Die Hälfte jedes Schritts sollte umsonst sein, und die meisten kassieren sie nicht mehr ei
+- 2026-09-07-abend-de / 04-dehnen-gehirn: Your Muscles Never Get Longer When You Stretch | Hook: Dehnen macht deine Muskeln nicht länger. Es überredet dein Gehirn, und das ändert alles.
+- 2026-09-07-abend-de / 05-po-vergisst: Your Butt Is Falling Asleep At Your Desk | Hook: Dein Po vergisst gerade, dass er überhaupt existiert. Und dein Rücken bezahlt dafür.
+- 2026-09-07-abend-de / 06-schmerz-alarm: Your Pain Is An Alarm, Not A Damage Report | Hook: Schmerz zeigt dir nicht, wo etwas kaputt ist. Er zeigt dir, wo dein Körper Alarm schlägt.
+- 2026-09-07-abend-de / 07-knochen-konto: Your Bones Are Quietly Running A Budget | Hook: Deine Knochen sind ein Bankkonto, und ab dreißig zahlen die meisten nur noch aus.
+- 2026-09-07-abend-de / 08-drei-tage-bett: Bed Rest Costs You More Muscle Than Training Builds | Hook: Drei Tage im Bett kosten dich mehr Muskel, als drei Wochen Training je zurückbringen.
+- 2026-09-07-abend-de / 09-gang-verraet-alter: The Way You Walk Reveals Your Real Age | Hook: Dein Gang verrät, wie alt dein Körper wirklich ist, und man sieht es in drei Sekunden.
+- 2026-09-07-abend-de / 10-schmerz-falscher-ort: Why Your Knee Pain Might Start One Joint Higher | Hook: Dein Knie tut weh, aber das Problem sitzt eine Etage höher, und das hat dir nie jemand ges
+- 2026-09-07-abend-de / 11-koerper-streckt-sich: Why Your Body Stretches Itself Every Single Morning | Hook: Dass dein Körper sich morgens von selbst streckt, hat nichts mit Müdigkeit zu tun.
+- 2026-09-07-abend-de / 12-faszie-folie: Why Your Whole Body Feels Stuck At Dawn | Hook: In deinem Körper klebt morgens alles ein bisschen zusammen, und genau deshalb wachst du st
+- 2026-09-07-en-retry / 02-hip-after-driving: Your hip forgets how long it is supposed to be | Hook: Does your hip lock up the moment you get out of the car? Save this video, in a moment I sh
+- 2026-09-07-en-retry / 04-soft-sofa: Your soft sofa is making your evenings stiffer, not easier | Hook: Your sofa does not relax you in the evening. It leaves you stiffer than your whole workday
+- 2026-09-07-en-retry / 05-back-when-standing: Back pain when you stand for long is not what they keep telling you | Hook: Your back hurts when you stand for a long time? It is not what you think, and not what you
+- 2026-09-07-en-retry / 07-heel-first-steps: Why your heel only hurts for the first few steps | Hook: You were never told why your heel stings on your very first steps in the morning.
+- 2026-09-07-en-retry / 10-hip-side-sleeping: Why Your Hip Hurts When You Sleep On Your Side | Hook: Nobody ever explained why your hip aches when you lie on your side.
+- 2026-09-07-en-retry / 15-leg-tingles-sitting: The Real Reason Your Leg Tingles When Sitting | Hook: Does your leg tingle or go slightly numb when you sit? Save this video, in a moment I show
+- 2026-09-07-en-retry / 18-looking-up-neck: Nobody explains why looking up strains your neck, not your back | Hook: Nobody ever explained why you feel it in your neck, not your back, when you look up at a h
+- 2026-09-07-en-test-kurzgesagt / 01-neck-cracks: Your neck cracks when you turn your head and this is why (vector test) | Hook: Your neck cracks every time you turn your head? Nobody has told you what that really is.
+- 2026-09-07-en-test-kurzgesagt / 08-floor-to-stand: What Standing Up From The Floor Reveals About You (vector test) | Hook: Sit down on the floor, then stand back up without using your hands. Nobody ever explained 
+- 2026-09-07-en-test-kurzgesagt / 16-eight-hours-desk: Why Your Body Feels Stuck After A Desk Day (vector test) | Hook: If you sit at your desk for eight hours, save this video. In a moment I show you what that
+- 2026-09-08-abend-de / 01-jonas-bauchschlaf-f1: Why Jonas Wakes Up Bent Every Single Morning | Hook: Jonas wacht jeden Morgen krumm auf, und niemand hat ihm je gesagt, warum.
+- 2026-09-08-abend-de / 02-jonas-fahrrad-f1: Why Jonas Walks Into The Office Still Bent Forward | Hook: Jonas steigt vom Rad und läuft ins Büro, als säße er immer noch im Sattel.
+- 2026-09-08-abend-de / 03-jonas-stehpult-f1: Jonas Bought A Standing Desk And Nothing Changed | Hook: Jonas hat sich ein Stehpult gekauft, und sein Rücken fühlt sich trotzdem genauso an wie vo
+- 2026-09-08-abend-de / 04-treppe-runter-f3: Downstairs Walking Trains A Skill Nobody Practices | Hook: Treppe runtergehen ist anstrengender für deine Beine als hochgehen. Und das ist kein Zeich
+- 2026-09-08-abend-de / 05-sport-rettet-nicht-f3: Exercise And Sitting Run On Two Separate Accounts | Hook: Eine Stunde Sport rettet keine acht Stunden Sitzen. Beides zählt getrennt.
+- 2026-09-08-abend-de / 06-ruecken-nicht-aus-glas-f3: Your Back Was Never As Fragile As You Think | Hook: Dein Rücken ist nicht aus Glas. Er wird nur behandelt, als wäre er es.
+- 2026-09-08-abend-de / 07-flug-morgen-f2: Why Long Flights Make You Walk Off Like You're Eighty | Hook: Wenn du morgen fliegst oder lange Bus fährst, dann hör kurz zu. Ich erkläre dir jetzt drei
+- 2026-09-08-abend-de / 08-rueckenschlaefer-kreuz-f2: Why Sleeping On Your Back Leaves You Sore | Hook: Wenn du auf dem Rücken schläfst und morgens das Kreuz spürst, dann hör kurz zu. Ich erklär
+- 2026-09-08-abend-de / 09-socken-anziehen-f4: The Real Reason You Sit Down To Put On Socks | Hook: Das wurde dir über das Sockenanziehen nie erklärt.
+- 2026-09-08-abend-de / 10-zappeln-f4: What Your Bouncing Foot Is Actually Trying To Do | Hook: Das wurde dir über dein Zappeln nie erklärt.
+- 2026-09-08-abend-de / 11-kinder-keine-rueckenschmerzen-f5: Why Kids Almost Never Complain About Back Pain | Hook: Kinder haben fast nie Rückenschmerzen, und der Grund ist nicht ihr Alter.
+- 2026-09-08-abend-de / 12-urlaub-vs-wochenende-f5: Why A City Trip Leaves You Looser Than A Weekend | Hook: Nach einer Woche Städtetrip läuft dein Körper besser als nach einem Wochenende auf dem Sof

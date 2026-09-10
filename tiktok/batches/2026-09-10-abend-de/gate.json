@@ -1,0 +1,62 @@
+{
+ "2026-09-10-de-01-jonas-teppichkante-f1": {
+  "pass": true,
+  "grund": "Charakter durchgehend präsent, keine leeren Serien",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-03-jonas-fernseher-f1": {
+  "pass": true,
+  "grund": "Nur je 2 leere Frames, nie 8 hintereinander ohne Charakter",
+  "leer": 0.59,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-04-gerade-sitzen-f3": {
+  "pass": true,
+  "grund": "Charakter in jedem Frame sichtbar, Poster nur Nebengrafik",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-05-schwimmen-ruecken-f3": {
+  "pass": false,
+  "grund": "Ab Reihe 1 (letztes Frame) bis Reihe 3: elf Frames nur Pfeile/Text, kein Charakter",
+  "leer": 0.05,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-06-sixpack-schuetzt-nicht-f3": {
+  "pass": false,
+  "grund": "Sollcharakter kommt im ganzen Video nicht vor, nur Diagramme/Grafiken ab Reihe 1",
+  "leer": 0.75,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-07-knien-am-boden-f2": {
+  "pass": true,
+  "grund": "Charakter durchgehend präsent, nur 4 Frames Handy/Röntgen am Schluss",
+  "leer": 0.65,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-08-ueber-kopf-f2": {
+  "pass": true,
+  "grund": "Charakter durchgehend sichtbar, keine Lücke ohne ihn.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-09-luft-anhalten-f4": {
+  "pass": true,
+  "grund": "Charakter in jedem Frame präsent, nur Mimik variiert.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-11-kalter-morgen-f5": {
+  "pass": true,
+  "grund": "Ab Reihe 2 anderer Zeichenstil, aber durchgehend derselbe Charakter, kein Stellvertreter.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ },
+ "2026-09-10-de-12-nachts-drehen-f5": {
+  "pass": true,
+  "grund": "Charakter in allen Szenen (Bett, Auto, Zelt) klar erkennbar.",
+  "leer": 0.0,
+  "quelle": "urteil"
+ }
+}
