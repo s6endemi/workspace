@@ -2052,3 +2052,20 @@ Sonnet-Schreiber mit neuen Pools (Pendeln/Küche/Garten; Knie/Schuhe/Heben-Mythe
 Kinderwagen/Rucksack/Rad/Stehen; Hüfte/Balance/Alltagsmysterien), dann Opus-Reviewer. Tasks
 PreviaReaktorDE6 (23:30) und -Wachhund (12.09. 09:00), Akku-Flags aus. Cross-Post ig,yt (fb pausiert,
 IG-Queue pausiert; YouTube läuft).
+
+### 11.09. 22:40 — Messung ohne Google One AI Pro: 3 Video-Übersichten pro Tag
+
+**Ergebnis.** Batch 6 im frischen Notebook: Welle 1 (drei Videos) in sieben Minuten erzeugt, das vierte
+sofort `TAGESLIMIT`. Das freie NotebookLM-Kontingent sind also **drei Video-Übersichten pro Tag** (mit Pro
+waren es ~20 je rollende 24 h). Dazu die freien Grenzen 50 Quellen je Notebook und 100 Notebooks, deshalb
+ab jetzt ein frisches Notebook je Batch (`NLM_NOTEBOOK_URL` im Wrapper). Der Reaktor läuft in der
+Limit-Schleife bis 12.09. 12:00 und plant dann, was da ist.
+**Konsequenz.** Mit 3/Tag ist genau eine Spur mit drei Slots haltbar, ohne Puffer, ohne EN, ohne Ausschuss
+im Gate (Batch 5: 4 von 12 fielen raus). Empfehlung an Eren: Google One AI Pro wieder aktivieren, solange
+NotebookLM der Videogenerator ist; die Pipeline ist auf Volumen gebaut.
+**Nebenbefunde heute Abend.** (1) `add_source.py`, `download_video2.py`, `finish_gen.py` nahmen ohne
+`NLM_NOTEBOOK_URL` irgendeinen Notebook-Tab (Rest des Fehlers vom 09.09.): Quellen landeten im falschen
+Notebook, 19 Optionen für 12 Quellen, Quellenwahl „mehrdeutig“. Jetzt überall `_WANTED` mit festem
+Standard-Notebook. (2) `gen_video.py` akzeptiert identische Mehrfachtreffer in der Quellenwahl (erste
+wird gewählt). (3) Zwei verwaiste Notebooks (be5bbfa5 mit Dubletten, 3b517586 als Altbestand) können
+in NotebookLM gelöscht werden. (4) Heredoc-Falle erneut: Windows-Pfade in Python-Strings nur als r"…".

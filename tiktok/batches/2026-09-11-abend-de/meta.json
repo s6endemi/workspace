@@ -1,0 +1,62 @@
+{
+ "01-jonas-pendlerbein-f1": {
+  "frag": "Why Jonas's Leg Feels Heavy",
+  "hook": "Jonas' rechtes Bein fühlt sich nach jeder Autofahrt komisch schwer an, und niemand hat ihm je gesagt, warum.",
+  "status": "OK 0:55 -> 2026-09-11-de-01-jonas-pendlerbein-f1.mp4"
+ },
+ "02-jonas-aufzug-f1": {
+  "frag": "Why Jonas Only Finds Out",
+  "hook": "Jonas nimmt im Parkhaus seit Jahren den Aufzug, und an dem einen Morgen, an dem der kaputt ist, merkt er zum ersten Mal, was ihm fehlt.",
+  "status": "OK 0:57 -> 2026-09-11-de-02-jonas-aufzug-f1.mp4"
+ },
+ "03-jonas-reichen-f1": {
+  "frag": "Why Jonas Never Takes The",
+  "hook": "Jonas' Küche ist vier Schritte breit, und er macht keinen einzigen davon. Das kostet ihn jeden Abend etwas.",
+  "status": "OK 1:03 -> 2026-09-11-de-03-jonas-reichen-f1.mp4"
+ },
+ "04-knie-drehen-f3": {
+  "frag": "A Knee That Catches When",
+  "hook": "Ein Knie, das beim Drehen einhakt, ist nicht schwach. Es kommt nur fast nie zum Drehen.",
+  "status": "TAGESLIMIT"
+ },
+ "05-dicke-sohlen-f3": {
+  "frag": "Thick Soft Soles Do Not",
+  "hook": "Dicke, weich gepolsterte Sohlen schützen deine Füße nicht. Sie schalten sie einfach aus.",
+  "status": "quelle ok"
+ },
+ "06-unerwartete-last-f3": {
+  "frag": "It Is Not The Heavy",
+  "hook": "Nicht das Schwere erwischt deinen Rücken. Es ist das, von dem du nicht wusstest, dass es schwer ist.",
+  "status": "quelle ok"
+ },
+ "07-rucksack-wandern-f2": {
+  "frag": "Why Your Backpack Still Pulls",
+  "hook": "Wenn du am Wochenende mit vollem Rucksack wandern gehst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die den Unterschied machen, wenn du ihn wieder absetzt.",
+  "status": "quelle ok"
+ },
+ "08-rad-sattel-f2": {
+  "frag": "Why An Hour On A",
+  "hook": "Wenn du morgen mit dem Rad zur Arbeit fährst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die den Unterschied machen, wenn du wieder absteigst.",
+  "status": "quelle ok"
+ },
+ "09-sand-spazieren-f4": {
+  "frag": "The Real Reason A Walk",
+  "hook": "Das wurde dir über Spaziergänge im Sand oder auf der Wiese nie erklärt.",
+  "status": "quelle ok"
+ },
+ "10-schmale-luecke-f4": {
+  "frag": "The Real Reason You Turn",
+  "hook": "Das wurde dir über deine Hüfte im Gedränge nie erklärt.",
+  "status": "quelle ok"
+ },
+ "11-rueckwaerts-gehen-f5": {
+  "frag": "Walking Backwards Is A Completely",
+  "hook": "Du bist in deinem Leben ein paar hundert Millionen Schritte vorwärts gegangen. Rückwärts vielleicht ein paar hundert.",
+  "status": "quelle ok"
+ },
+ "12-gleicher-takt-f5": {
+  "frag": "Why Two People Walking Together",
+  "hook": "Geh zwei Minuten neben jemandem her, und ihr geht im selben Takt, ohne dass einer von euch das entschieden hat.",
+  "status": "quelle ok"
+ }
+}
