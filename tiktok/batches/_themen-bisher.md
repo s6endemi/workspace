@@ -1,4 +1,4 @@
-# Bereits verwendete Themen (Sperrliste für neue Batches, Stand 10.09.)
+# Bereits verwendete Themen (Sperrliste für neue Batches, Stand 11.09.)
 
 Jedes neue Skript braucht ein Thema, das hier weder als Titel noch als Mechanik vorkommt.
 
@@ -85,3 +85,15 @@ Jedes neue Skript braucht ein Thema, das hier weder als Titel noch als Mechanik 
 - 2026-09-08-abend-de / 10-zappeln-f4: What Your Bouncing Foot Is Actually Trying To Do | Hook: Das wurde dir über dein Zappeln nie erklärt.
 - 2026-09-08-abend-de / 11-kinder-keine-rueckenschmerzen-f5: Why Kids Almost Never Complain About Back Pain | Hook: Kinder haben fast nie Rückenschmerzen, und der Grund ist nicht ihr Alter.
 - 2026-09-08-abend-de / 12-urlaub-vs-wochenende-f5: Why A City Trip Leaves You Looser Than A Weekend | Hook: Nach einer Woche Städtetrip läuft dein Körper besser als nach einem Wochenende auf dem Sof
+- 2026-09-10-abend-de / 01-jonas-teppichkante-f1: Why Jonas Trips Over The Same Carpet Edge Every Week | Hook: Jonas bleibt jede Woche an derselben Teppichkante im eigenen Flur hängen, und niemand hat 
+- 2026-09-10-abend-de / 03-jonas-fernseher-f1: Why Jonas Walks Away From His Sofa Slightly Crooked | Hook: Jonas steht jeden Abend vom Sofa auf und läuft die ersten Schritte leicht schief, und niem
+- 2026-09-10-abend-de / 04-gerade-sitzen-f3: Sitting Perfectly Straight Is The Hardest Way To Sit | Hook: Perfekt gerade sitzen ist nicht die gesündeste Haltung für deinen Rücken. Es ist die anstr
+- 2026-09-10-abend-de / 05-schwimmen-ruecken-f3: Swimming Is Not The Back Training Everyone Says It Is | Hook: Schwimmen ist kein Rückentraining. Es ist die eine Stunde der Woche, in der dein Rücken fa
+- 2026-09-10-abend-de / 06-sixpack-schuetzt-nicht-f3: A Six Pack Does Not Actually Protect Your Back | Hook: Ein Sixpack schützt deinen Rücken nicht. Ein Bauch, der lange durchhält, schon.
+- 2026-09-10-abend-de / 07-knien-am-boden-f2: What An Hour On Your Knees Actually Does To Your Legs | Hook: Wenn du am Wochenende Möbel aufbaust oder im Garten kniest, dann hör kurz zu. Ich erkläre 
+- 2026-09-10-abend-de / 08-ueber-kopf-f2: Why Twenty Minutes Of Overhead Work Costs You A Whole Evening | Hook: Wenn du gleich eine Lampe wechselst, die Decke streichst oder das oberste Regal ausräumst,
+- 2026-09-10-abend-de / 09-luft-anhalten-f4: The Real Reason You Hold Your Breath When Lifting Something Heavy | Hook: Das wurde dir über das Luftanhalten beim Heben nie erklärt.
+- 2026-09-10-abend-de / 11-kalter-morgen-f5: Why Your First Hundred Metres In The Cold Feel Different | Hook: An einem kalten Morgen gehören deine ersten hundert Meter einem anderen Körper als der Res
+- 2026-09-10-abend-de / 12-nachts-drehen-f5: Why You Turn Over Thirty Times Every Single Night | Hook: Du drehst dich jede Nacht rund dreißig Mal um, und du erinnerst dich an keine einzige davo
+- 2026-09-10-abend-de / 02-jonas-enge-schuhe-f1: Why Jonas's Feet Feel Wrecked After A Short Walk | Hook: Jonas ist erst fünfzehn Minuten unterwegs, und seine Füße fühlen sich schon platt an.
+- 2026-09-10-abend-de / 10-aus-dem-bett-f4: The Real Reason Getting Out Of Bed Is The Hardest Move Of Your Day | Hook: Das wurde dir über das Aufstehen aus dem Bett nie erklärt.

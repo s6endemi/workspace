@@ -108,6 +108,13 @@ vergleichen können. Inhaltlich gelten weiter Variante K und die Beat-3-Regeln.
   „Dehnen macht dich nicht beweglicher." / „Dein Rücken ist nicht schwach." / „Das Sofa ist das
   Problem, nicht der Bürostuhl." Hook = die Umkehrung, Enthüllung = der echte Mechanismus.
 - **F4 Enthüllung:** „Das wurde dir über X nie erklärt." (bisheriges concealment-reveal).
+  **Befund Batch 5 (10.09.) für F3:** Zwei von drei kontraintuitiven Skripten (Schwimmen, Sixpack) wurden
+  zu reinen Pfeil- und Diagrammvideos, weil die Quelle die Mechanik ERKLÄRT statt sie als Handlung zu
+  zeigen. F3 braucht nach dem Umkehr-Hook sofort eine Szene, in der der Protagonist die Wahrheit am
+  eigenen Leib erlebt (er tut etwas, und es passiert etwas), keine Gegenüberstellung zweier Dinge.
+  Und: NotebookLM lehnt manche Quellen mit „Video-Zusammenfassung konnte nicht erstellt werden“ ab
+  (Batch 5: enge Schuhe, aus dem Bett; Auslöser unklar, vermutlich Wortmaterial wie „wrecked“,
+  „hardest“, Schmerz-Häufung). `batch_produce` erkennt das seit 11.09. und wartet nicht mehr.
 - **F5 Wissens-Explainer:** Variante K pur, Neugier statt Problem: „Du bist morgens einen
   Zentimeter größer als abends."
 

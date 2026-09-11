@@ -2032,3 +2032,23 @@ Charakter; beides F3-Mechanik-Erklärungen, siehe Befund „Vergleiche werden Di
 TikTok DE 13.09. 19:30 bis 15.09. 11:30, Instagram-Queue, YouTube 0 Fehler. Batch 5 gesamt: 12 Skripte,
 8 veröffentlicht, 2 von NotebookLM abgelehnt, 2 im Gate. Nächster Batch: F3 braucht eine Szene mit
 Handlung statt Erklärung, sonst zeichnet NotebookLM Grafiken.
+
+### 11.09. 21:45 — Meta sperrt den API-Zugriff („API access blocked“); Instagram-Queue pausiert; Batch 6 ohne Google Pro
+
+**Befund.** Seit heute Nachmittag antwortet die Graph API für App-Token, Nutzer-Token und Seiten-Token nur
+noch mit `code 200 "API access blocked"`; auch `debug_token` und die App selbst. Instagram-Queue: 13:15
+noch veröffentlicht, 16:30 `ProcessingFailedError`, 19:30 Berechtigungsfehler. Das ist eine Sperre auf
+App-Ebene (App-Dashboard bei Meta prüfen: Einschränkungen, Benachrichtigungen, Datenverwendungs-Check,
+Business-Verifizierung), nicht ein abgelaufenes Token. Das Ergebnis des Facebook-Vergleichstests
+(manuell 10.09. mittags gegen API 16:30) ist deshalb per API nicht lesbar; Eren liest es in der
+Business Suite ab.
+**Maßnahmen.** `out/.ig-pause` (meta_publish.queue_run überspringt, Einträge bleiben „offen“); die beiden
+FEHLER-Einträge (12-faszie, 01-jonas-bauchschlaf) wieder auf „offen“. Facebook-Pause bleibt. Ein Batch
+„mit Facebook inklusive“ ist erst nach Aufhebung der Sperre möglich.
+**Batch 6** (2026-09-11-abend-de, Prefix 2026-09-11-de): erster Lauf ohne Google-One-Pro (Abo heute
+ausgelaufen), misst das freie NotebookLM-Kontingent. `batch_produce` erkennt seit heute Ablehnungen
+(„konnte nicht erstellt werden“) und wartet nicht mehr 45 min; Brief um F3-Befund ergänzt. Vier
+Sonnet-Schreiber mit neuen Pools (Pendeln/Küche/Garten; Knie/Schuhe/Heben-Mythen/Pausen; Spazieren/
+Kinderwagen/Rucksack/Rad/Stehen; Hüfte/Balance/Alltagsmysterien), dann Opus-Reviewer. Tasks
+PreviaReaktorDE6 (23:30) und -Wachhund (12.09. 09:00), Akku-Flags aus. Cross-Post ig,yt (fb pausiert,
+IG-Queue pausiert; YouTube läuft).
