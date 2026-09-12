@@ -2069,3 +2069,25 @@ Notebook, 19 Optionen für 12 Quellen, Quellenwahl „mehrdeutig“. Jetzt über
 Standard-Notebook. (2) `gen_video.py` akzeptiert identische Mehrfachtreffer in der Quellenwahl (erste
 wird gewählt). (3) Zwei verwaiste Notebooks (be5bbfa5 mit Dubletten, 3b517586 als Altbestand) können
 in NotebookLM gelöscht werden. (4) Heredoc-Falle erneut: Windows-Pfade in Python-Strings nur als r"…".
+
+### 12.09. 11:10 — Neustart, Batch 6 zu 8/12, Google AI Plus statt Pro, EN-Batch 7 aus bewährten DE-Skripten
+
+**Abo.** Eren hat am 11.09. 23:40 Google AI Plus abgeschlossen (nicht Pro). Wirkung sofort: nach den drei
+freien Generierungen (22:25) liefen ab 23:45 sechs weitere; um 10:59 am 12.09. wieder `TAGESLIMIT` bei 4
+offenen. Plus-Kontingent also zwischen 9 und ~10 je 24 h, genaue Messung heute Abend (Nachhol-Task
+PreviaReaktorDE6Nacht 22:45, `--force`). Pro (~20/Tag) bleibt die Empfehlung, wenn zwei Spuren laufen sollen.
+**Neustart des PCs (~10:30)** beendete den Reaktor (8 von 12 Videos lagen in out/). Wachhund 10:36 mit
+0x800710E0 trotz Akku-Flags aus (vermutlich vor der Anmeldung gefeuert). Von Hand neu gestartet 10:59;
+Deadline 12:00 (aus `started` 23:45), dann Gate und Planung der acht (TikTok DE ab 15.09. 13:15, YouTube;
+IG-Queue und Facebook pausiert).
+**EN-Batch 7 (2026-09-12-en, Prefix 2026-09-12-en).** Erens Wunsch: „zweite Hälfte auf Englisch“. Umsetzung
+wie im Brief vorgesehen: zwölf bewährte DE-Skripte (Gate PASS, Batch 4/5: Bauchschlaf, Fahrrad,
+Teppichkante; Treppe runter, Rücken nicht aus Glas, gerade sitzen; Rückenschläfer, knien; Socken, Luft
+anhalten; Kinder, nachts drehen) mit unveränderter Quelle, Prompt und Caption von zwei Sonnet-Agenten ins
+Englische übertragen, Hooks in geraden Anführungszeichen, `batch_check` grün. Frisches EN-Notebook
+f9c0d146, Wrapper `reaktor-en-batch7.cmd` (--lang Englisch, Port 9222, @previahealth, Slots
+14/19/21/23, Cross-Post yt ohne EN-Kanal = übersprungen), Tasks PreviaReaktorEN7 (23:30) und -Wachhund
+(13.09. 09:00), Akku-Flags aus. Reaktor um 11:07 gestartet; teilt sich das Tageslimit mit DE.
+**YouTube EN / Facebook EN.** YouTube EN sobald Eren einen zweiten Kanal anlegt und sich im EN-Chrome
+anmeldet (Kanal-ID in `channels.json`). Facebook EN erst nach Aufhebung der Meta-Sperre und Klärung der
+DE-Reichweite.

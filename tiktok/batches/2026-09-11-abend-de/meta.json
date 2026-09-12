@@ -17,32 +17,32 @@
  "04-knie-drehen-f3": {
   "frag": "A Knee That Catches When",
   "hook": "Ein Knie, das beim Drehen einhakt, ist nicht schwach. Es kommt nur fast nie zum Drehen.",
-  "status": "TAGESLIMIT"
+  "status": "OK 0:59 -> 2026-09-11-de-04-knie-drehen-f3.mp4"
  },
  "05-dicke-sohlen-f3": {
   "frag": "Thick Soft Soles Do Not",
   "hook": "Dicke, weich gepolsterte Sohlen schützen deine Füße nicht. Sie schalten sie einfach aus.",
-  "status": "quelle ok"
+  "status": "OK 1:05 -> 2026-09-11-de-05-dicke-sohlen-f3.mp4"
  },
  "06-unerwartete-last-f3": {
   "frag": "It Is Not The Heavy",
   "hook": "Nicht das Schwere erwischt deinen Rücken. Es ist das, von dem du nicht wusstest, dass es schwer ist.",
-  "status": "quelle ok"
+  "status": "OK 1:05 -> 2026-09-11-de-06-unerwartete-last-f3.mp4"
  },
  "07-rucksack-wandern-f2": {
   "frag": "Why Your Backpack Still Pulls",
   "hook": "Wenn du am Wochenende mit vollem Rucksack wandern gehst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die den Unterschied machen, wenn du ihn wieder absetzt.",
-  "status": "quelle ok"
+  "status": "OK (vorhanden)"
  },
  "08-rad-sattel-f2": {
   "frag": "Why An Hour On A",
   "hook": "Wenn du morgen mit dem Rad zur Arbeit fährst, dann hör kurz zu. Ich erkläre dir jetzt drei Dinge, die den Unterschied machen, wenn du wieder absteigst.",
-  "status": "quelle ok"
+  "status": "TAGESLIMIT"
  },
  "09-sand-spazieren-f4": {
   "frag": "The Real Reason A Walk",
   "hook": "Das wurde dir über Spaziergänge im Sand oder auf der Wiese nie erklärt.",
-  "status": "quelle ok"
+  "status": "OK (vorhanden)"
  },
  "10-schmale-luecke-f4": {
   "frag": "The Real Reason You Turn",
