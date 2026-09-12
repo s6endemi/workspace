@@ -2091,3 +2091,18 @@ f9c0d146, Wrapper `reaktor-en-batch7.cmd` (--lang Englisch, Port 9222, @previahe
 **YouTube EN / Facebook EN.** YouTube EN sobald Eren einen zweiten Kanal anlegt und sich im EN-Chrome
 anmeldet (Kanal-ID in `channels.json`). Facebook EN erst nach Aufhebung der Meta-Sperre und Klärung der
 DE-Reichweite.
+
+### 12.09. 12:10 — Reaktor: bei Tageslimit sofort veröffentlichen, was fertig ist
+
+**Anlass.** Eren: „Sobald das Limit erreicht ist, sollen die Videos, die existieren, hochgeladen werden,
+nicht warten, bis eine Anzahl vollständig ist.“ Bis heute lief Planen erst nach Ende der Produktion oder
+zur Deadline; die acht fertigen Batch-6-Videos lagen seit der Nacht ungeplant, die Deadline 12:00 hätte
+sie erst mittags freigegeben (von Hand um 11:59 mit abgelaufener Deadline ausgelöst).
+**Umbau `reaktor.py`.** Neue Methode `zwischenstand()`: im `TAGESLIMIT`-Zweig der Produktionsschleife
+werden vor dem 30-min-Warten Nachzügler eingesammelt und alle fertigen, laut TikTok-Ledger ungeplanten
+Videos durch Trim, Gate, Planen und Cross-Post geschickt (unter `out/.publish.lock`). Stufen bleiben
+offen, der Endlauf nimmt die Nachzügler mit; alles ist idempotent (gate.json cached Urteile, Ledger
+verhindert Doppel, Trim erkennt fehlendes Outro). Die Stufen `gate/publish/crosspost` sind dafür in
+`_gate_run/_publish_run/_crosspost_run` (ohne Markierung) und die markierenden `stage_*` aufgeteilt.
+Gilt ab dem nächsten Reaktorstart (Nachholer 22:45, EN-Reaktor nach Neustart).
+**Rückweg.** `zwischenstand()`-Aufruf im Limit-Zweig entfernen.
